@@ -82,7 +82,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 * Once in Settings, navigate to the Pages tab down the side menu.
 * Under Source, select the branch to master, then click save.
 * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate a successful deployment.
-*The GitHub repository live link is here - [Beeston Castle](https://github.com/NickCMoore/beeston-castle)
+* The GitHub repository live link is here - [Beeston Castle](https://github.com/NickCMoore/beeston-castle)
 
 ### Forking The Repository Using GitHub
 
