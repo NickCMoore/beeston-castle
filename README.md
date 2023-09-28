@@ -74,6 +74,36 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 ## Deployment
 
+### Deploying The Project
+
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+
+* In the GitHub repository, navigate to the Settings tab.
+* Once in Settings, navigate to the Pages tab down the side menu.
+* Under Source, select the branch to master, then click save.
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate a successful deployment.
+*The GitHub repository live link is here - [Beeston Castle](https://github.com/NickCMoore/beeston-castle)
+
+### Forking The Repository Using GitHub
+
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository:
+
+* Log in to **GitHub** and locate the repository.
+* On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+
+### Creating A Local Clone Of The Project
+
+The method from cloning a project from GitHub is below:
+
+* Under the repository’s name, click on the **Code** tab.
+* In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+* In your IDE of choice, open **Git Bash**.
+* Change the current working directory to the location where you want the cloned directory to be made.
+* Type **git clone**, and then paste the URL copied from GitHub.
+* Press **Enter** and the local clone will be created.
+
+
+
 ## Credits
 
 ### Code
