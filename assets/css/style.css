@@ -7,6 +7,9 @@
 }
 
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: 'Rosarivo', serif;
     font-weight: 400;
     color: #242424;
