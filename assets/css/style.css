@@ -8,77 +8,60 @@
 
 body {
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
     font-family: 'Rosarivo', serif;
-    color: #242424;
+    color: #1C2321;
 }
 
 /* Headings and Logo */
-header {
-    background-color: #ffffff;
-    padding: 0 1rem;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-}
-
-header a {
-    text-decoration: none;
-    color: inherit;
-}
 
 h1 {
     font-family: 'Nanum Myeongjo', serif;
     letter-spacing: 2px;
-    color: #252525;
+    color: #5E6572;
 }
 
-#menu {
-    font-size: 110%;
+#logo {
+    float: left;
+    font-size: 200%;
+    margin-left: 20px;
+}
+
+/* Navigation Menu */
+
+#nav {
+    color:#5E6572;
+    font-size: 180%;
     letter-spacing: 2px;
-    list-style-type: none;
 }
 
 #menu, #logo {
-    line-height: 60px;
+    line-height: 50px;
 }
 
 #menu > li {
-    margin-bottom: 1em;
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .active {
     border-bottom: 1px solid #242424;
 }
 
-nav {
-    position: absolute;
-    background-color: #ffffff;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display: none;
-    top: 100%;
-
-}
-
 #nav-toggle:checked~nav {
     display: block;
-}
-
-#nav-toggle {
-    display: none;
 }
 
 .nav-toggle-label {
     font-size: 2rem;
 }
+
+/* Main image and accompanying text */
 
 #overall-main {
     height: 750px;
@@ -97,15 +80,28 @@ nav {
 #main-image-text {
     font-size: 170%;
     font-family: 'Rosarivo', serif;
+    color: #5E6572;
     text-align: center;
     letter-spacing: 2px;
     width: 600px;
-    height: 300px;
+    height: 600px;
     padding: 20px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
+}
+
+#learn-more {
+    font-size: 56%;
+    display: inline-block;
+    flex-direction: column;
+    line-height: 30px;
+    background: #D0CCD0;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 17px;
+    outline: 0;
+    border: 0;
 }
 
 footer {
