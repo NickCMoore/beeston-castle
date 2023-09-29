@@ -18,9 +18,12 @@ body {
 /* Headings and Logo */
 header {
     background-color: lightcoral;
-    font-family: 'Nanum Myeongjo', cursive;
     letter-spacing: 2px;
     color: #252525;
+}
+
+h1 {
+    font-family: 'Nanum Myeongjo', cursive;
 }
 
 main {
