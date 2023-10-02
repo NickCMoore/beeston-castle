@@ -41,7 +41,7 @@ h1 {
 #menu > li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 100px;
 }
 
 #menu a {
@@ -59,6 +59,24 @@ h1 {
 
 .nav-toggle-label {
     font-size: 2rem;
+}
+
+#nav-button {
+    float: right;
+    background-color: #D0CCD0;
+    padding: 7px 5px;
+    width: 150px;
+    color: #ffffff;
+    text-align: center;
+    border: 4px double #5e6572;
+    border-radius: 10px;
+    font-size: 75%;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#nav-button:hover {
+    background-color: #7D98A1;
 }
 
 /* Main image and accompanying text */
@@ -92,16 +110,22 @@ h1 {
     position: absolute;
 }
 
-#learn-more {
-    font-size: 56%;
+#main-button {
     display: inline-block;
-    flex-direction: column;
-    line-height: 30px;
-    background: #D0CCD0;
-    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
-    border-radius: 17px;
-    outline: 0;
-    border: 0;
+    background-color: #D0CCD0;
+    padding: 7px 5px;
+    width: 150px;
+    color: #ffffff;
+    text-align: center;
+    border: 4px double #5e6572;
+    border-radius: 10px;
+    font-size: 55%;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#main-button:hover {
+    background-color: #7D98A1;
 }
 
 footer {
