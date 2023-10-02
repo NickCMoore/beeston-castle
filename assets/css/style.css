@@ -41,7 +41,7 @@ h1 {
 #menu > li {
     float: right;
     list-style-type: none;
-    margin-right: 100px;
+    margin-right: 50px;
 }
 
 #menu a {
@@ -126,6 +126,19 @@ h1 {
 
 #main-button:hover {
     background-color: #7D98A1;
+}
+
+#essential-container {
+    width: auto;
+    position: relative;
+    clear: both;
+    max-width: 175rem;
+}
+
+#essential-text {
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 0.2em;
 }
 
 footer {
