@@ -133,12 +133,20 @@ h1 {
     position: relative;
     clear: both;
     max-width: 175rem;
+    padding: 17px;
 }
 
 #essential-text {
     text-align: center;
     font-size: 14px;
     letter-spacing: 0.2em;
+}
+
+#hr-divider {
+    border-bottom: 1px solid #A9B4C2;
+    width: 55%;
+    margin: auto;
+    padding-bottom: 5px;
 }
 
 footer {
