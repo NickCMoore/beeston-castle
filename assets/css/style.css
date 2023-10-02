@@ -129,17 +129,21 @@ h1 {
 }
 
 #essential-container {
-    width: auto;
-    position: relative;
-    clear: both;
-    max-width: 175rem;
-    padding: 17px;
+    display: flex;
+    background-color: #A9B4C2;
+    height: auto;
+    width: 46%;
+    margin: auto;
+    border-radius: 20px;
+    padding-top: 20px;
 }
 
 #essential-text {
+    flex: 1 1 0;
     text-align: center;
     font-size: 14px;
     letter-spacing: 0.2em;
+    padding-top: 20px;
 }
 
 #hr-divider {
@@ -149,6 +153,22 @@ h1 {
     padding-bottom: 5px;
 }
 
-footer {
-    background-color: orange;
+#essential-image {
+    height: 750px;
+    max-width: 100%;
+    background: url(../images/bw-main-hd.jpg) no-repeat top center;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
 }
