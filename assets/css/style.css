@@ -352,3 +352,27 @@ h1 {
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
 }
+
+#castle-map {
+    width: 100%;
+    margin: auto;
+    padding-top: 5px;
+    overflow: auto;
+    margin-bottom: 16px;
+    padding: 8px;
+
+}
+
+#castle-map h2 {
+    font-size: 180%;
+    text-align: center;
+    padding: 20px;
+}
+
+#map {
+    display: flex;
+    padding: 55px;
+    box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
+    height: auto;
+    align-items: center;
+}
