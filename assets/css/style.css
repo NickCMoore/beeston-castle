@@ -305,6 +305,15 @@ h1 {
     width: 100%;
 }
 
+.tickets-box:hover {
+    background-color: #A9B4C2;
+}
+
+.ticket-text {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 #admission-tickets h2 {
     font-size: 180%;
     text-align: center;
@@ -314,5 +323,9 @@ h1 {
 #admission-tickets h3 {
     font-size: 120%;
     text-align: center;
-    font-family: 'Montserrat', serif;
 }
+
+#admission-tickets h4 {
+    text-align: center;
+}
+
