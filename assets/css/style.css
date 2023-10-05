@@ -540,8 +540,10 @@ h1 {
 }
 
 .container {
-    width: 100%;
-    margin: 0 auto;
+    height: 517px;
+    max-width: 100%;
+    background: url(../images/beeston-map.jpg) no-repeat top center;
+    object-fit: contain;
 }
 
 #contact {
@@ -551,6 +553,7 @@ h1 {
     background-color: #A9B4C2;
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     border-radius: 20px;
+    opacity: 0.95;
 }
 
 #contact h3 {
