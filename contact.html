@@ -15,10 +15,16 @@
     </head>
 
     <body>
+
+<!-- Headings and Logo -->
+
         <header>
             <a href="index.html">
-                <h1 id="logo"><i class="fa-solid fa-chess-rook"></i>Beeston Castle</i></h1>
+                <h1 id="logo"><i class="fa-solid fa-chess-rook"></i>Beeston
+                    Castle</i></h1>
             </a>
+
+<!-- Navigation Menu -->
 
             <nav>
                 <ul id="menu">
@@ -29,7 +35,7 @@
                         <a href="visit.html" class="active">Visit</a>
                     </li>
                     <li>
-                        <a href="timeline.html" class="active">Timeline</a>
+                    <a href="timeline.html" class="active">Timeline</a>
                     </li>
                     <li>
                         <a href="contact.html" class="active">Contact</a>
@@ -38,103 +44,109 @@
             </nav>
             <div id="nav-button">
                 <a href="contact.html">
-                    Book Now</a>
+                Book Now</a>
             </div>
         </header>
+
+<!-- Visit image and accompanying text -->
+
         <section id="overall-main">
-            <div id="main-image"></div>
-            <div id="main-image-text">
-                <h3>Your Adventure Awaits</h3>
+            <div id="visit-main"></div>
+            <div id="visit-image-text">
+                <h3>Plan Your Day With Us</h3>
                 <br>
-                <h2>Beeston Castle</h2>
+                <h2>Your Visit</h2>  
+            </div>
+        </section>
+
+<!-- FAQs section -->
+
+        <section id="visiting-beeston-faqs">
+            <h2>Visiting Beeston FAQs</h2>
+            <div id="visiting-beeston-faqs-text">
+                <h4><b>Are the grounds and attractions suitable for wheelchairs?</b></h4>
                 <br>
-                <div id="main-button">
-                    <a href="timeline.html">
-                        Learn More</a>
-                </div>
-            </section>
-            <section id="essential-information">
-                <div id="essential-container">
-                    <div id="essential-text">
-                        <h2>Essential Information</h2>
-                        <br>
-                        <br>
-                        <h3>Opening Times</h3>
-                        <br>
-                        <br>
-                        <p>Beeston Castle is open daily 31st March to 26th
-                            October 2023</p>
-                        <br>
-                        <br>
-                        <p><b>Castle Grounds</b> - 10:00am - 5:30pm (last
-                            admission at 5:00pm)</p>
-                        <br>
-                        <p><b>State Rooms</b> - 10:30am - 4:30pm (last admission
-                            at 4:00pm)</p>
-                        <br>
-                        <p><b>The Great Tower</b> - 11:00am - 4:00pm (last
-                            admission at 3:45pm)</p>
-                        <br>
-                        <p><b>Gift Shop</b> - 10:00am - 5:00pm</p>
-                        <br>
-                        <p><b>Cafe</b> - 11:00am - 4:00pm</p>
-                        <br>
-                        <hr id="hr-divider">
-                        <br>
-                        <br>
-                        <h3>Location</h3>
-                        <br>
-                        <br>
-                        <p>Chapel Lane</p>
-                        <br>
-                        <p>Beeston</p>
-                        <br>
-                        <p>Cheshire</p>
-                        <br>
-                        <p>CW6 9TX</p>
-                        <br>
-                        <hr id="hr-divider">
-                        <br>
-                        <br>
-                        <h3>Contact</h3>
-                        <br>
-                        <br>
-                        <p>Phone: 01234 567890</p>
-                        <br>
-                        <p>Email: castle@beeston-castle.com</p>
-                        <br>
-                    </div>
-                </div>
-            </section>
-            <div id="essential-image"></div>
-            <footer>
-                <ul id="social-networks">
-                    <li>
-                        <a href="https://www.facebook.com/" target="_blank"
-                            rel="noopener"
+                <p>Yes, however the entrance via East gate does have a lot of cobbles due to the nature of the old building.</p>
+                <br>
+                <br>
+                <h4><b>Will dietary needs be catered for?</b></h4>
+                <br>
+                <p>We have a variety of vegetarian, vegan and gluten free products on offer in the Cafe . Please feel free to ask for the dietary sheets available.</p>
+                <br>
+                <br>
+                <h4><b>Can I bring pets into the site?</b></h4>
+                <br>
+                <p>Assistance guide dogs only are permitted on site. However we do have dog friendly weekends / days, please look out for these on our website.</p>
+                <br>
+                <br>
+                <h4><b>Can I bring a pram or pushchair into the attraction?</b></h4>
+                <br>
+                <p>You are welcome to bring prams and pushchairs into the grounds. However the ramparts may not be suitable so in order to ensure the comfort of all our visitors we ask that you leave pushchairs and buggies in the designated space at the Main Gate.</p>
+                <br>
+                <br>
+                <h4><b>Can I take photos in the attraction?</b></h4>
+                <br>
+                <p>Photography is permitted inside the Castle grounds and buildings for non-commercial private use. No photography or video is permitted inside of the library area.</p>
+                <br>
+                <br>
+                <h4><b>If you have any other questions about your visit, please contact our Visitor Experience Team on 01234 567890 ​​​​​​and they will be happy to help or complete the enquiry form on the <a href="contact.html">Contact</a> page.</b></h4>
+            </div>    
+        </section>
+
+<!-- Contact page -->
+
+        <section class="container">  
+            <form id="contact" action="" method="post">
+            <h3>Contact Form</h3>
+            <h4>Please contact us for any queries you may have</h4>
+            <fieldset>
+                <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+            </fieldset>
+            <fieldset>
+                <input placeholder="Your Email Address" type="email" tabindex="2" required>
+            </fieldset>
+            <fieldset>
+                <input placeholder="Your Contact Number" type="tel" tabindex="3" required>
+            </fieldset>
+            <fieldset>
+                <textarea placeholder="Type your message here...." tabindex="5" required></textarea>
+            </fieldset>
+            <fieldset>
+                <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+            </fieldset>
+            </form>
+        </section>
+
+<!-- Footer -->
+
+        <footer>
+            <ul id="social-networks">
+                <li>
+                    <a href="https://www.facebook.com/" target="_blank" rel="noopener"
                             aria-label="Visit our Facebook page (opens in a new tab)">
-                            <i class="fa-brands fa-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://www.twitter.com/" target="_blank"
+                        <i class="fa-brands fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.twitter.com/" target="_blank"
                             rel="noopener"
                             aria-label="Visit our Twitter page (opens in a new tab)">
-                            <i class="fa-brands fa-twitter-square"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://www.youtube.com/" target="_blank"
+                        <i class="fa-brands fa-twitter-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" target="_blank"
                             rel="noopener"
                             aria-label="Visit our YouTube page (opens in a new tab)">
-                            <i class="fa-brands fa-youtube-square"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://www.instagram.com/" target="_blank"
+                        <i class="fa-brands fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/" target="_blank"
                             rel="noopener"
                             aria-label="Visit our Instagram page (opens in a new tab)">
-                            <i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                </ul>
-            </footer>
-        <script src="https://kit.fontawesome.com/1c241afabe.js" crossorigin="anonymous"></script>
-        </body>
-    </html>
+                        <i class="fa-brands fa-instagram"></i></a>
+                </li>
+            </ul>
+        </footer>
+        <script src="https://kit.fontawesome.com/1c241afabe.js"
+                crossorigin="anonymous"></script>
+    </body>
+</html>
