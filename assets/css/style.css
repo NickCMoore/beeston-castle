@@ -487,3 +487,29 @@ h1 {
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
 }
+
+#castle-video {
+    width: 100%;
+    margin: auto;
+    padding-top: 5px;
+    overflow: auto;
+    margin-bottom: 16px;
+    padding: 8px;
+
+}
+
+#castle-video h2 {
+    font-size: 180%;
+    text-align: center;
+    padding: 20px;
+}
+
+#video {
+    display: flex;
+    width: auto;
+    position: relative;
+    padding: 20px;
+    box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
+    height: auto;
+    justify-content: center;
+}
