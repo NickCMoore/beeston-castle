@@ -382,6 +382,28 @@ h1 {
 
 /* Timeline */
 
+#timeline-main {
+    height: 750px;
+    max-width: 100%;
+    background: url(../images/castle-timeline.jpg) no-repeat top center;
+    object-fit: contain;
+}
+
+#timeline-main-text {
+    font-size: 170%;
+    font-family: 'Rosarivo', serif;
+    color: #5E6572;
+    text-align: center;
+    letter-spacing: 2px;
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
 #history-of-beeston h2 {
     font-size: 180%;
     text-align: center;
