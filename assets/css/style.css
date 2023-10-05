@@ -522,41 +522,37 @@ h1 {
 }
 
 #contact {
-  background: #F9F9F9;
-  padding: 50px;
-  margin: 30px 100px;
-  background-color: #A9B4C2;
-  box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
+    background: #F9F9F9;
+    padding: 50px;
+    margin: 30px 100px;
+    background-color: #A9B4C2;
+    box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
 }
 
 #contact h3 {
-  display: block;
-  font-size: 30px;
-  font-weight: 300;
-  margin-bottom: 10px;
+    display: block;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 10px;
 }
 
 #contact h4 {
-  margin: 5px 0 15px;
-  display: block;
-  font-size: 13px;
-  font-weight: 400;
+    margin: 5px 0 15px;
+    display: block;
+    font-size: 17px;
+    font-weight: 400;
 }
 
 fieldset {
-  border: medium none !important;
-  margin: 0 0 10px;
-  min-width: 100%;
-  padding: 0;
-  width: 100%;
-  font-family: 'Rosarivo', serif;
+    border: medium none;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+    font-family: 'Rosarivo', serif;
 }
 
-#contact input[type="text"],
-#contact input[type="email"],
-#contact input[type="tel"],
-#contact input[type="url"],
-#contact textarea {
+#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
     width: 100%;
     border: 1px solid #ccc;
     background: #FFF;
@@ -565,24 +561,23 @@ fieldset {
 }
 
 #contact textarea {
-  height: 100px;
-  max-width: 100%;
-  resize: none;
+    height: 100px;
+    max-width: 100%;
 }
 
 #contact button[type="submit"] {
-  cursor: pointer;
-  width: 100%;
-  border: none;
-  background: #7D98A1;
-  color: #FFF;
-  margin: 0 0 5px;
-  padding: 10px;
-  font-size: 15px;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #7D98A1;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
 }
 
 #contact button[type="submit"]:hover {
-  background: #5E6572;
-  transition: background-color 0.3s;
+    background: #5E6572;
+    transition: background-color 0.3s;
 }
 
