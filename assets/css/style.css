@@ -82,7 +82,7 @@ h1 {
 /* Main image and accompanying text */
 
 #overall-main {
-    height: 750px;
+    height: 710px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -371,8 +371,10 @@ h1 {
 
 #map {
     display: flex;
-    padding: 55px;
+    width: auto;
+    position: relative;
+    padding: 20px;
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
-    align-items: center;
+    justify-content: center;
 }
