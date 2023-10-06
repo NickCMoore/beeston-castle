@@ -82,7 +82,7 @@ h1 {
 /* Main image and accompanying text */
 
 #overall-main {
-    height: 700px;
+    height: 750px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -404,7 +404,7 @@ h1 {
     width: 600px;
     height: 600px;
     padding: 20px;
-    top: 42%;
+    top: 39%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
