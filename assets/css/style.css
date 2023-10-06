@@ -22,8 +22,9 @@ h1 {
 
 #logo {
     float: left;
-    font-size: 200%;
+    font-size: 265%;
     margin-left: 20px;
+    padding-top: 10px;
 }
 
 /* Navigation Menu */
@@ -34,7 +35,7 @@ h1 {
     letter-spacing: 2px;
 }
 
-#menu, #logo {
+#menu {
     line-height: 70px;
     font-size: 142%;
 }
