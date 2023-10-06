@@ -260,7 +260,7 @@ h1 {
 
 /* Visit page */
 
-#visit-main {
+#visit-main-img {
     background: url(../images/visit-main.jpg);
     height: 100%;
     background-position: top center;
@@ -386,7 +386,7 @@ h1 {
 
 /* Timeline */
 
-#timeline-main {
+#timeline-main-img {
     background: url(../images/castle-timeline.jpg);
     height: 90%;
     background-position: top center;
@@ -523,7 +523,7 @@ h1 {
 
 /* Contact page */
 
-#contact-main {
+#contact-main-img {
     background: url(../images/contact-main.jpg);
     height: 100%;
     background-position: top center;
