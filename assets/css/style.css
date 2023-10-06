@@ -45,12 +45,12 @@ h1 {
 }
 
 #menu a {
-    text-decoration: none;
     color: inherit;
 }
 
 .active {
     border-bottom: 1px solid #242424;
+    text-decoration: none;
 }
 
 #nav-toggle:checked~nav {
@@ -82,17 +82,19 @@ h1 {
 /* Main image and accompanying text */
 
 #overall-main {
-    height: 710px;
+    height: 700px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#main-image {
-    height: 750px;
-    max-width: 100%;
-    background: url(../images/castle-front-main.jpg) no-repeat top center;
-    
+#overall-main-img {
+    background: url(../images/castle-front-main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    height: 100%;
 }
 
 #main-image-text {
@@ -104,7 +106,7 @@ h1 {
     width: 600px;
     height: 600px;
     padding: 20px;
-    top: 50%;
+    top: 46%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
@@ -121,7 +123,7 @@ h1 {
     border-radius: 10px;
     font-size: 55%;
     cursor: pointer;
-    margin: 5px;
+    margin: 20px;
 }
 
 #main-button:hover {
@@ -259,10 +261,12 @@ h1 {
 /* Visit page */
 
 #visit-main {
-    height: 750px;
-    max-width: 100%;
-    background: url(../images/visit-main.jpg) no-repeat top center;
-    object-fit: contain;
+    background: url(../images/visit-main.jpg);
+    height: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 #visit-image-text {
@@ -383,12 +387,14 @@ h1 {
 /* Timeline */
 
 #timeline-main {
-    height: 750px;
-    max-width: 100%;
-    background: url(../images/castle-timeline.jpg) no-repeat top center;
-    object-fit: contain;
+    background: url(../images/castle-timeline.jpg);
+    height: 90%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
-
+    
 #timeline-main-text {
     font-size: 170%;
     font-family: 'Rosarivo', serif;
@@ -518,10 +524,12 @@ h1 {
 /* Contact page */
 
 #contact-main {
-    height: 750px;
-    max-width: 100%;
-    background: url(../images/contact-main.jpg) no-repeat top center;
-    object-fit: contain;
+    background: url(../images/contact-main.jpg);
+    height: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 #contact-main-text {
