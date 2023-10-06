@@ -36,6 +36,7 @@ h1 {
 
 #menu, #logo {
     line-height: 70px;
+    font-size: 142%;
 }
 
 #menu > li {
@@ -70,7 +71,7 @@ h1 {
     text-align: center;
     border: 4px double #5e6572;
     border-radius: 10px;
-    font-size: 85%;
+    font-size: 100%;
     cursor: pointer;
     margin: 14px 25px 5px 5px;
 }
@@ -98,7 +99,7 @@ h1 {
 }
 
 #main-image-text {
-    font-size: 170%;
+    font-size: 220%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -116,14 +117,14 @@ h1 {
     display: inline-block;
     background-color: #D0CCD0;
     padding: 7px 5px;
-    width: 150px;
+    width: 213px;
     color: #ffffff;
     text-align: center;
     border: 4px double #5e6572;
     border-radius: 10px;
-    font-size: 55%;
+    font-size: 70%;
     cursor: pointer;
-    margin: 50px;
+    margin: 113px;
 }
 
 #main-button:hover {
@@ -149,7 +150,7 @@ h1 {
 #essential-text {
     flex: 1 1 0;
     text-align: center;
-    font-size: 17px;
+    font-size: 140%;
     letter-spacing: 0.2em;
     padding-top: 20px;
 }
@@ -190,15 +191,16 @@ h1 {
 
 #subscribe__title {
 	font-weight: bold;
-	font-size: 26px;
+	font-size: 166%;
 	margin-bottom: 18px;
 }
 
 #subscribe__info {
-	max-width: 450px;
+	max-width: 500px;
 	text-align: center;
 	margin-bottom: 35px;
 	line-height: 1.5;
+    font-size: 128%;
 }
 
 #form {
@@ -240,6 +242,7 @@ h1 {
 .sign-up-options {
     width: 345px;
     font-family: 'Rosarivo', serif;
+    font-size: 110%;
 }
 
 /* Footer */
@@ -270,7 +273,7 @@ h1 {
 }
 
 #visit-image-text {
-    font-size: 170%;
+    font-size: 200%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -317,10 +320,11 @@ h1 {
 .ticket-text {
     padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 150%;
 }
 
 #admission-tickets h2 {
-    font-size: 180%;
+    font-size: 225%;
     text-align: center;
     padding: 20px;
 }
@@ -346,7 +350,7 @@ h1 {
 }
 
 #visiting-beeston-faqs h2 {
-    font-size: 180%;
+    font-size: 225%;
     text-align: center;
     padding: 20px;
 }
@@ -356,6 +360,7 @@ h1 {
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
     border-radius: 20px;
+    font-size: 158%;
 }
 
 /* Beeston Map section */
@@ -370,7 +375,7 @@ h1 {
 }
 
 #castle-map h2 {
-    font-size: 180%;
+    font-size: 225%;
     text-align: center;
     padding: 20px;
 }
@@ -402,7 +407,7 @@ h1 {
 }
     
 #timeline-main-text {
-    font-size: 170%;
+    font-size: 200%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -410,20 +415,20 @@ h1 {
     width: 600px;
     height: 600px;
     padding: 20px;
-    top: 39%;
+    top: 44%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
 }
 
 #history-of-beeston h2 {
-    font-size: 180%;
+    font-size: 250%;
     text-align: center;
     padding: 20px;
 }
 
 .design-section {
-    width: 85%;
+    width: 59%;
     margin: auto;
     padding-top: 5px;
     overflow: auto;
@@ -467,6 +472,7 @@ h1 {
     margin: 1rem;
     margin-bottom: 20px;
     border-radius: 6px;
+    font-size: 140%;
 }
 
 .timeline-component {
@@ -512,7 +518,7 @@ h1 {
 }
 
 #castle-video h2 {
-    font-size: 180%;
+    font-size: 250%;
     text-align: center;
     padding: 20px;
 }
@@ -540,7 +546,7 @@ h1 {
 }
 
 #contact-main-text {
-    font-size: 170%;
+    font-size: 218%;
     font-family: 'Rosarivo', serif;
     color: #1C2321;
     text-align: center;
@@ -573,7 +579,7 @@ h1 {
 
 #contact h3 {
     display: block;
-    font-size: 30px;
+    font-size: 41px;
     font-weight: 300;
     margin-bottom: 10px;
 }
@@ -581,13 +587,13 @@ h1 {
 #contact h4 {
     margin: 5px 0 15px;
     display: block;
-    font-size: 17px;
+    font-size: 23px;
     font-weight: 400;
 }
 
 fieldset {
     border: medium none;
-    margin: 0 0 10px;
+    margin: -5px 0 10px;
     min-width: 100%;
     padding: 0;
     width: 100%;
