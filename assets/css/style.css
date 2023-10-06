@@ -303,6 +303,7 @@ h1 {
 .ticket {
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
+    border-radius: 20px;
 }
 
 .ticket img {
@@ -354,18 +355,18 @@ h1 {
     padding: 55px;
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
+    border-radius: 20px;
 }
 
 /* Beeston Map section */
 
 #castle-map {
-    width: 100%;
+    width: 85%;
     margin: auto;
     padding-top: 5px;
     overflow: auto;
     margin-bottom: 16px;
     padding: 8px;
-
 }
 
 #castle-map h2 {
@@ -376,12 +377,17 @@ h1 {
 
 #map {
     display: flex;
-    width: auto;
+    width: 100%;
     position: relative;
     padding: 20px;
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
     justify-content: center;
+    border-radius: 20px;
+}
+
+.gmap_canvas {
+    width: auto;
 }
 
 /* Timeline */
@@ -519,6 +525,7 @@ h1 {
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
     justify-content: center;
+    border-radius: 20px;
 }
 
 /* Contact page */
