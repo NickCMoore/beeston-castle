@@ -23,7 +23,7 @@ h1 {
 #logo {
     float: left;
     font-size: 265%;
-    margin-left: 190px;
+    margin-left: 35px;
     padding-top: 10px;
 }
 
@@ -43,7 +43,7 @@ h1 {
 #menu > li {
     float: right;
     list-style-type: none;
-    margin-right: 20px;
+    margin-right: 60px;
 }
 
 #menu a {
@@ -100,7 +100,7 @@ h1 {
 }
 
 #main-image-text {
-    font-size: 220%;
+    font-size: 200%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -125,7 +125,7 @@ h1 {
     border-radius: 10px;
     font-size: 70%;
     cursor: pointer;
-    margin: 113px;
+    margin: 150px;
 }
 
 #main-button:hover {
@@ -274,7 +274,7 @@ h1 {
 }
 
 #visit-image-text {
-    font-size: 200%;
+    font-size: 180%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -361,7 +361,7 @@ h1 {
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     height: auto;
     border-radius: 20px;
-    font-size: 158%;
+    font-size: 125%;
 }
 
 /* Beeston Map section */
@@ -408,7 +408,7 @@ h1 {
 }
     
 #timeline-main-text {
-    font-size: 200%;
+    font-size: 180%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -416,7 +416,7 @@ h1 {
     width: 600px;
     height: 600px;
     padding: 20px;
-    top: 44%;
+    top: 39%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
