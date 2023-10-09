@@ -781,6 +781,30 @@ fieldset {
 /*  Desktops, large screens */
 
 @media (min-width: 992px) and (max-width: 1300px) {
+
+    .timeline {
+        max-width: 1500px;
+    }
+
+    .timeline-content {
+        font-size: 92%;
+    }
+
+    #main-image-text {
+        font-size: 150%;
+    }
+
+    #essential-text {
+        font-size: 115%;
+    }
+
+    #visit-image-text {
+        font-size: 165%;
+    }
+
+    #contact {
+        padding: 36px;
+    }
 }
 
 /* iPads, Tablets */
@@ -792,7 +816,7 @@ fieldset {
         float: right;
         line-height: 54px;
         font-size: 112%;
-        margin-left: 5px;
+        margin-right: 25px;
     }
 
     #menu li {
@@ -906,7 +930,7 @@ fieldset {
     }
 
     #social-networks {
-        padding: 8px;
+        padding:13px;
     }
 
     #visit-main-img {
@@ -995,7 +1019,7 @@ fieldset {
 
     .timeline {
         padding: 1px;
-        width: 100%;
+        width: 96%;
     }
 
     .timeline-content {
@@ -1016,6 +1040,7 @@ fieldset {
     #castle-video {
         width: 100%;
         margin-bottom: 1px;
+        padding: 14px 45px 10px 12px;
     }
 
     #video {
@@ -1220,7 +1245,7 @@ fieldset {
     }
 
     #visiting-beeston-faqs-text {
-        font-size: 90%;
+        font-size: 85%;
         padding: 15px;
     }
 
@@ -1286,7 +1311,7 @@ fieldset {
     }
 
     #castle-video {
-        width: 100%;
+        width: 97%;
         margin-bottom: 1px;
     }
 
