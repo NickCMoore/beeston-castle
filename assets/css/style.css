@@ -246,6 +246,8 @@ h1 {
     width: 345px;
     font-family: 'Rosarivo', serif;
     font-size: 110%;
+    padding: 10px;
+    text-align: center;
 }
 
 /* Footer */
@@ -638,6 +640,142 @@ fieldset {
 /* Extra large screens, TV */
 
 @media (min-width: 1301px) {
+
+    #logo {
+        font-size: 250%;
+        padding: 20px;
+    }
+
+    #menu {
+        font-size: 136%;
+        line-height: 87px;
+    }
+
+    #overall-main {
+        height: 1361px;
+    }
+
+    #overall-main-img {
+        max-width: 100%;
+        max-height: 100%;
+        background-size: auto;
+    }
+
+    #main-image-text {
+        font-size: 250%;
+        top: 27%;
+    }
+
+    #nav-button {
+        margin-right: 425px;
+        font-size: 150%;
+    }
+
+    #subscribe {
+        height: 337px;
+        padding-top: 1px;
+    }
+
+    #essential-text {
+        font-size: 136%;
+    }
+
+    #subscribe-title {
+        font-size: 218%;
+    }
+
+    #subscribe-info {
+        font-size: 125%;
+    }
+
+    #timeline-main-img {
+        max-width: 100%;
+        max-height: 100%;
+        background-size: auto;
+    }
+
+    #timeline-main-text {
+        top: 24%;
+        font-size: 220%;
+    }
+
+    #history-of-beeston h2 {
+        font-size: 317%;
+    }
+
+    .timeline {
+        max-width: 1500px;
+    }
+
+    .timeline-content {
+        font-size: 107%;
+    }
+
+    #castle-video h2 {
+        font-size: 317%;
+    }
+
+    #visit-main-img {
+        max-width: 100%;
+        max-height: 100%;
+        background-size: auto;
+    }
+
+    #visit-image-text {
+        font-size: 240%;
+        top: 27%;
+    }
+
+    #admission-tickets h2 {
+        font-size: 275%;
+    }
+
+    .ticket-text {
+        font-size: 122%;
+    }
+
+    #visiting-beeston-faqs h2 {
+        font-size: 275%;;
+    }
+
+    #visiting-beeston-faqs-text {
+        font-size: 143%;
+    }
+
+    #castle-map h2 {
+        font-size: 275%;
+    }
+
+    #contact-main-img {
+        max-width: 100%;
+        max-height: 100%;
+        background-size: auto;
+    }
+
+    #contact-main-text {
+        font-size: 241%;
+        top: 29%;
+    }
+
+    #contact h4 {
+        font-size: 25px;
+    }
+
+    #contact {
+        padding: 30px;
+    }
+
+    #contact input {
+        font-size: 16px;
+    }
+
+    #contact textarea {
+        font-size: 16px;
+    }
+
+    #contact button[type="submit"] {
+        font-size: 23px;
+    }
 }
 
 /*  Desktops, large screens */
@@ -754,7 +892,7 @@ fieldset {
         width: auto;
         font-size: 80%;
         margin-top: 7px;
-        margin-left: 100px;
+        margin-left: 25px;
     }
 
     #form-button {
@@ -1026,13 +1164,12 @@ fieldset {
         width: auto;
         font-size: 63%;
         margin-top: 7px;
-        margin-left: 10px;
     }
 
     #form-button {
         width: 100px;
         padding: 2px 0px;
-        margin-top: 4px;
+        margin-top: 15px;
         margin-bottom: 60px;
         margin-right: 10px;
         font-family: 'Rosarivo', serif;
