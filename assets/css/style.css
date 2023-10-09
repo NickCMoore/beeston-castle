@@ -217,6 +217,8 @@ h1 {
 	width: 431px;
 	font-size: 18px;
 	color: #0F121F;
+    font-family: 'Rosarivo', serif;
+    text-align: center;
 }
 
 #form-email:focus {
@@ -228,14 +230,15 @@ h1 {
     background-color: #D0CCD0;
     padding: 10px 5px;
     width: 150px;
-    color: #ffffff;
+    color: #0F121F;
     text-align: center;
     border: 4px double #5e6572;
     border-radius: 10px;
-    font-size: 75%;
+    font-size: 18px;
     cursor: pointer;
     margin-top: 10px;
     margin-left: 10px;
+    font-family: 'Rosarivo', serif;
 }
 
 #form-button:hover {
@@ -798,6 +801,11 @@ fieldset {
         font-size: 115%;
     }
 
+    .sign-up-options {
+        width: 415px;
+        font-size: 88%;
+    }
+
     #visit-image-text {
         font-size: 165%;
     }
@@ -905,8 +913,6 @@ fieldset {
         height: 30px;
         margin-left: 10px;
         font-size: 16px;
-        text-align: center;
-        font-family: 'Rosarivo', serif;
         color: #1C2321;
     }
 
