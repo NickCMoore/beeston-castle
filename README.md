@@ -102,19 +102,29 @@ The method from cloning a project from GitHub is below:
 * Type **git clone**, and then paste the URL copied from GitHub.
 * Press **Enter** and the local clone will be created.
 
-
-
 ## Credits
 
 ### Code
 
+* Code for the footer section was adapted from [Code Institute's](https://codeinstitute.net/global/) Love Running walkthrough project.
+* The Timeline section is based on [code](https://codepen.io/Divyesh-K/pen/YzxLQNz) written by [CodePen](https://codepen.io/) author Divyesh Kamalanaban
+
 ### Content
+
+* Content for the FAQs section was abridged from the [Lincoln Castle](https://www.lincolncastle.com/plan/faqs) website.
+* The Timeline section explaining the history of Beeston Castle is based on research from [Great British Life](https://www.greatbritishlife.co.uk/things-to-do/23153457.look-history-beeston-castle-cheshire/) 
 
 ### Design
 
 * [Balsamiq](https://balsamiq.com/) - was used to generate the wireframes for the project.
+* The colour palette for the site was chosen with accessibility in mind from the [Coolors](https://coolors.co/1c2321-7d98a1-5e6572-a9b4c2) site.
+* The following fonts used throughout the site and were imported from Google Fonts - Montserrat, Rosarivo, Nanum Myeongjo and Lato.
 
 ### Media
+
+* The main logo and social media links were taken from [Code Awesome's](https://fontawesome.com/) database of icons.
+
+* Photos used were either from the Pexels website or Matt Thomas' [Flickr](https://www.flickr.com/photos/31045971@N00/14983599442/in/photolist-oQ3S6q-24hyGAe-aqYY9J-d5jqtU-9Q1khz-UGBtKt-pY8FnR-H89oWt-28sxMfH-aBmcc6-8pA8wE-pXY6XJ-Uv52QB-J6icyv-8wRs3W-WGjCme-Uv53XB-c9kiM3-Usj7MG-d5jzyw-HUbuLj-TuRRMr-eie29i-cUGBkA-25Gz6eq-VqmJaq-gndmoS-CtJqBM-q1aKEa-9tMDQw-inXC4L-a6GaDa-e2MzK9-UCXFBE-9uRiDk-4qo9V-Lu39Sa-bkjPHH-Ek8FmM-PRV5an-3dKTbL-MkH3hJ-8wRtMN-FuF1eU-cz6tnd-NBmdVW-fCghAV-RxnzDP-gndEPM-oxhAuj) page (with permission).
 
 ### Acknowledgments
 
