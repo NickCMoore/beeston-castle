@@ -64,7 +64,7 @@ h1 {
 }
 
 #nav-button {
-    margin: auto;
+    float: right;
     background-color: #D0CCD0;
     padding: 13px 5px;
     width: 150px;
@@ -75,6 +75,7 @@ h1 {
     font-size: 100%;
     cursor: pointer;
     margin-top: 10px;
+    margin-right: 10px;
 }
 
 #nav-button:hover {
