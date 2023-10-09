@@ -785,6 +785,14 @@ fieldset {
 
 @media (min-width: 992px) and (max-width: 1300px) {
 
+    #menu {
+        font-size: 113%;
+    }
+
+    #logo {
+        font-size: 192%;
+    }
+
     .timeline {
         max-width: 1500px;
     }
