@@ -836,6 +836,10 @@ fieldset {
         overflow: hidden;
     }
 
+    #timeline-main-text {
+        font-size: 105%;
+        top: 47%;
+    }
 
 
 
