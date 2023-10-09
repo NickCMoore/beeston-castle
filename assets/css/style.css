@@ -813,6 +813,10 @@ fieldset {
     #contact {
         padding: 36px;
     }
+
+    #nav-button {
+        margin-right: 37px;
+    }
 }
 
 /* iPads, Tablets */
