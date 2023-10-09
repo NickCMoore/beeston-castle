@@ -564,7 +564,7 @@ h1 {
 }
 
 .container {
-    height: 517px;
+    height: 450px;
     max-width: 100%;
     background: url(../images/beeston-map.jpg) no-repeat top center;
     object-fit: contain;
@@ -578,13 +578,14 @@ h1 {
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     border-radius: 20px;
     opacity: 0.95;
+    font-family: 'Rosarivo', serif;
 }
 
-#contact h3 {
-    display: block;
-    font-size: 41px;
-    font-weight: 300;
-    margin-bottom: 10px;
+#get-in-header {
+    text-align: center;
+    padding: 10px;
+    font-size: 163%;
+    margin-top: 15px;
 }
 
 #contact h4 {
@@ -609,6 +610,7 @@ fieldset {
     background: #FFF;
     margin: 0 0 5px;
     padding: 10px;
+    font-family: 'Rosarivo', serif;
 }
 
 #contact textarea {
@@ -625,6 +627,7 @@ fieldset {
     margin: 0 0 5px;
     padding: 10px;
     font-size: 15px;
+    font-family: 'Rosarivo', serif;
 }
 
 #contact button[type="submit"]:hover {
@@ -696,7 +699,7 @@ fieldset {
     }
 
     #essential-text {
-        font-size: 82%;
+        font-size: 108%;
     }
 
     #essential-image {
@@ -883,6 +886,7 @@ fieldset {
 
     .container {
         margin-left: 28px;
+        height: 430px;
     }
 
     #contact-main-img {
@@ -908,7 +912,6 @@ fieldset {
 
     #contact h4 {
         font-size: 17px;
-        text-align: center;
     }
 
 
@@ -1156,6 +1159,8 @@ fieldset {
 
     .container {
         margin-left: 28px;
+        height: 452px;
+        margin-bottom: 6px;
     }
 
     #contact-main-img {
@@ -1170,7 +1175,8 @@ fieldset {
     }
 
     #contact-main-text {
-        font-size: 137%;
+        font-size: 115%;
+        width: 275px;
     }
 
     #contact h3 {
