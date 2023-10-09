@@ -192,13 +192,13 @@ h1 {
     padding-top: 20px;
 }
 
-#subscribe__title {
+#subscribe-title {
 	font-weight: bold;
 	font-size: 166%;
 	margin-bottom: 18px;
 }
 
-#subscribe__info {
+#subscribe-info {
 	max-width: 500px;
 	text-align: center;
 	margin-bottom: 35px;
@@ -210,7 +210,7 @@ h1 {
 	margin-bottom: 25px;
 }
 
-#form__email {
+#form-email {
 	padding: 20px 25px;
 	border-radius: 5px;
     border: 1px solid #CAD3DB;
@@ -219,11 +219,11 @@ h1 {
 	color: #0F121F;
 }
 
-#form__email:focus {
+#form-email:focus {
 	outline: 1px solid #3D9FFF;
 }
 
-#form__button {
+#form-button {
     float: right;
     background-color: #D0CCD0;
     padding: 10px 5px;
@@ -238,7 +238,7 @@ h1 {
     margin-left: 10px;
 }
 
-#form__button:hover {
+#form-button:hover {
 	background-color: #7D98A1;
 }
 
@@ -632,16 +632,31 @@ fieldset {
     transition: background-color 0.3s;
 }
 
-@media only screen and (max-width: 600px) {
-    body {
-        max-width: fit-content; 
-    }
+/* Extra large screens, TV */
 
+@media (min-width: 1301px) {
+}
+
+/*  Desktops, large screens */
+
+@media (min-width: 992px) and (max-width: 1300px) {
+}
+
+/* iPads, Tablets */
+
+@media (min-width: 481px) and (max-width: 991px) {
+}
+
+/*  Mobile devices. */
+
+@media (max-width: 480px) {
+    
     #menu {
         display: flex;
         float: left;
         line-height: 40px;
-        font-size: 96%;
+        font-size: 94%;
+        margin-left: 5px;
     }
 
     #menu li {
@@ -650,32 +665,34 @@ fieldset {
     
     #logo {
         font-size: 190%;
-        margin-top: 20px;
+        margin-left: 8px;
     }
     
     #nav-button {
-        margin: auto;
-        position:absolute;
         width: 103px;
-        height: 42px;
+        height: 50px;
         margin-right: 5px;
-        font-size: 75%;
+        margin-top: 5px;
+        font-size: 94%;
     }
 
     #main-image-text {
-        font-size: 94%;
-        top: 42%;
+        font-size: 105%;
+        top: 47%;
     }
 
     #overall-main-img {
         max-width: 100%;
         max-height: 100%;
-        margin-top: 15px;
     }
 
     #main-button {
-        width: 119px;
-        margin: 219px;
+        width: 140px;
+        margin: 123px;
+    }
+
+    #essential-container {
+        padding: 5px;
     }
 
     #essential-information {
@@ -688,21 +705,81 @@ fieldset {
 
     #essential-image {
         max-width: 100%;
-        max-height: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top center;
+        position: relative;
+    }
+
+    #subscribe-container {
+        padding: 10px;
     }
 
     #subscribe {
         max-width: 100%;
-        max-height: 100%; 
+        opacity: 0.9;
     }
 
-    #subscribe_title {
-        font-size: 76%;
+    #subscribe-title {
+        font-weight: bold;
+        font-size: 114%;
+        margin-top: 25px;
+        text-align: center;
+        margin-bottom: 20px;
     }
     
-    #subscribe_info {
+    #subscribe-info {
         font-size: 69%;
+        max-width: 84%;
+        margin-bottom: 30px;
     }
 
+    #form {
+        margin: auto;
+    }
 
+    #form-email {
+        width: 241px;
+        height: 30px;
+        margin-top: 35px;
+        margin-left: 10px;
+        font-size: 12px;
+        text-align: center;
+        font-family: 'Rosarivo', serif;
+        color: #1C2321;
+    }
+
+    .sign-up-options {
+        font-family: 'Rosarivo', serif;
+        font-size: 103%;
+        width: auto;
+        font-size: 63%;
+        margin-top: 7px;
+        margin-left: 10px;
+    }
+
+    #form-button {
+        width: 100px;
+        padding: 2px 0px;
+        margin-top: 4px;
+        margin-bottom: 60px;
+        margin-right: 10px;
+        font-family: 'Rosarivo', serif;
+        color: #1C2321;
+    }
+
+    #social-networks {
+        padding: 8px;
+    }
+
+    #visit-main-img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    #visit-image-text {
+        font-size: 105%;
+        top: 47%;
+    }
 }
