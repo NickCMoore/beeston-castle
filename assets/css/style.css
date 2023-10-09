@@ -20,6 +20,10 @@ h1 {
     color: #5E6572;
 }
 
+a {
+    text-decoration: none;
+}
+
 #logo {
     float: left;
     font-size: 265%;
@@ -48,11 +52,6 @@ h1 {
 
 #menu a {
     color: inherit;
-}
-
-.active {
-    border-bottom: 1px solid #242424;
-    text-decoration: none;
 }
 
 #nav-toggle:checked~nav {
