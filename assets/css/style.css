@@ -780,6 +780,63 @@ fieldset {
 
     #visit-image-text {
         font-size: 105%;
-        top: 47%;
+        top: 42%;
     }
+
+    #admission-tickets {
+        width: 100%
+    }
+
+    #admission-tickets h2 {
+        text-align: center;
+        padding: 10px;
+        font-size: 163%;
+    }
+
+    .tickets-box {
+        width: 100%;
+    }
+
+    .ticket-text {
+        font-size: 100%;
+        padding-bottom: 15px;
+    }
+
+    #visiting-beeston-faqs {
+        width: 100%;
+    }
+
+    #visiting-beeston-faqs h2 {
+        font-size: 163%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    #visiting-beeston-faqs-text {
+        font-size: 90%;
+        padding: 15px;
+    }
+
+    #map {
+        padding: 8px;
+    }
+
+    #castle-map {
+        width: 100%;
+        margin-bottom: 1px;
+    }
+
+    #castle-map h2 {
+        font-size: 163%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .gmap_canvas {
+        overflow: hidden;
+    }
+
+
+
+
 }
