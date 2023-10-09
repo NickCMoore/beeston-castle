@@ -125,10 +125,13 @@
                             Castle newsletter</h2>
                         <p id="subscribe-info">Subscribe to keep up with castle
                             news and updates.</p>
-                        <div id="form">
-                            <input type="email" id="form-email"
+                        <form id="form" action="newsletter-submission.html">
+                            <label for="email"></label>
+                            <input type="email" id="form-email" required
+                                class="text-input"
                                 placeholder="Enter your email address" />
-                            <button id="form-button">Send</button>
+                            <button id="form-button" input type="submit"
+                                value="submit">Send</button>
                             <div class="sign-up-options">
                                 <input type="checkbox">
                                 <span id="notice-copy">News</span>
@@ -137,7 +140,7 @@
                                 <input type="checkbox">
                                 <span id="notice-copy">All</span>
                             </div>
-                        </div>
+                        </form>
                     </div>
                 </div>
             </section>
