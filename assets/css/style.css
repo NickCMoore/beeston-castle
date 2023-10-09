@@ -101,8 +101,8 @@ h1 {
     height: 100%;
 }
 
-#main-image-text {
-    font-size: 200%;
+#main-image-text h2 {
+    font-size: 120%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -111,6 +111,21 @@ h1 {
     height: 600px;
     padding: 20px;
     top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+#main-image-text h3 {
+    font-size: 200%;
+    font-family: 'Rosarivo', serif;
+    color: #5E6572;
+    text-align: center;
+    letter-spacing: 2px;
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    top: 57%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
@@ -280,8 +295,8 @@ h1 {
     position: relative;
 }
 
-#visit-image-text {
-    font-size: 180%;
+#visit-image-text h2 {
+    font-size: 120%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -289,7 +304,22 @@ h1 {
     width: 600px;
     height: 600px;
     padding: 20px;
-    top: 46%;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+#visit-image-text h3 {
+    font-size: 200%;
+    font-family: 'Rosarivo', serif;
+    color: #5E6572;
+    text-align: center;
+    letter-spacing: 2px;
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    top: 53%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
@@ -414,8 +444,8 @@ h1 {
     position: relative;
 }
     
-#timeline-main-text {
-    font-size: 180%;
+#timeline-main-text h2 {
+    font-size: 146%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -423,7 +453,22 @@ h1 {
     width: 600px;
     height: 600px;
     padding: 20px;
-    top: 39%;
+    top: 41%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+#timeline-main-text h3 {
+    font-size: 200%;
+    font-family: 'Rosarivo', serif;
+    color: #5E6572;
+    text-align: center;
+    letter-spacing: 2px;
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
@@ -553,16 +598,31 @@ h1 {
     position: relative;
 }
 
-#contact-main-text {
-    font-size: 218%;
+#contact-main-text h2 {
+    font-size: 151%;
     font-family: 'Rosarivo', serif;
-    color: #1C2321;
+    color: #5E6572;
     text-align: center;
     letter-spacing: 2px;
     width: 600px;
-    height: 500px;
+    height: 600px;
     padding: 20px;
-    top: 42%;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+#contact-main-text h3 {
+    font-size: 242%;
+    font-family: 'Rosarivo', serif;
+    color: #5E6572;
+    text-align: center;
+    letter-spacing: 2px;
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    top: 58%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
@@ -664,9 +724,14 @@ fieldset {
         background-size: auto;
     }
 
-    #main-image-text {
-        font-size: 250%;
-        top: 27%;
+    #main-image-text h2 {
+        font-size: 240%;
+        top: 29%
+    }
+
+    #main-image-text h3 {
+        font-size: 280%;
+        top: 39%;
     }
 
     #nav-button {
@@ -697,9 +762,14 @@ fieldset {
         background-size: auto;
     }
 
-    #timeline-main-text {
-        top: 24%;
-        font-size: 220%;
+    #timeline-main-text h2 {
+        font-size: 240%;
+        top: 24%
+    }
+
+    #timeline-main-text h3 {
+        font-size: 280%;
+        top: 34%;
     }
 
     #history-of-beeston h2 {
@@ -724,9 +794,14 @@ fieldset {
         background-size: auto;
     }
 
-    #visit-image-text {
+    #visit-image-text h2 {
         font-size: 240%;
-        top: 27%;
+        top: 29%
+    }
+
+    #visit-image-text h3 {
+        font-size: 280%;
+        top: 39%;
     }
 
     #admission-tickets h2 {
@@ -755,9 +830,14 @@ fieldset {
         background-size: auto;
     }
 
-    #contact-main-text {
-        font-size: 241%;
-        top: 29%;
+    #contact-main-text h2 {
+        font-size: 240%;
+        top: 29%
+    }
+
+    #contact-main-text h3 {
+        font-size: 280%;
+        top: 39%;
     }
 
     #contact h4 {
@@ -858,7 +938,7 @@ fieldset {
     }
 
     #main-image-text {
-        font-size: 137%;
+        font-size: 107%;
         top: 47%;
     }
 
@@ -1020,9 +1100,14 @@ fieldset {
         height: 100%;
     }
 
-    #timeline-main-text {
+    #timeline-main-text h2 {
         font-size: 137%;
         top: 39%;
+    }
+
+    #timeline-main-text h3 {
+        font-size: 220%;
+        top: 47%;
     }
 
     #history-of-beeston h2 {
@@ -1081,9 +1166,15 @@ fieldset {
         padding: 37px;
     }
 
-    #contact-main-text {
-        font-size: 137%;
-        top: 38%;
+    #contact-main-text h2 {
+        font-size: 154%;
+        top: 45%
+    }
+
+    
+    #contact-main-text h3 {
+        font-size: 242%;
+        top: 56%;
     }
 
     #contact h3 {
@@ -1127,9 +1218,14 @@ fieldset {
         font-size: 94%;
     }
 
-    #main-image-text {
+    #main-image-text h2 {
         font-size: 105%;
         top: 47%;
+    }
+
+    #main-image-text h3 {
+        font-size: 182%;
+        top: 55%;
     }
 
     #overall-main-img {
@@ -1292,9 +1388,14 @@ fieldset {
         height: 100%;
     }
 
-    #timeline-main-text {
-        font-size: 95%;
+    #timeline-main-text h2 {
+        font-size: 110%;
         top: 41%;
+    }
+
+    #timeline-main-text h3 {
+        font-size: 163%;
+        top: 49%;
     }
 
     #history-of-beeston h2 {
@@ -1354,9 +1455,15 @@ fieldset {
         padding: 37px;
     }
 
-    #contact-main-text {
+    #contact-main-text h2 {
         font-size: 115%;
         width: 275px;
+    }
+
+    #contact-main-text h3 {
+        font-size: 189%;
+        width: 275px;
+        top: 55%;
     }
 
     #contact h3 {
