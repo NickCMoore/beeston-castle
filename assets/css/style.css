@@ -368,20 +368,18 @@ h1 {
     text-align: center;
 }
 
-
 /* Visiting Beeston FAQs section */
 
 #visiting-beeston-faqs {
     width: 85%;
     margin: auto;
-    padding-top: 5px;
+    padding: 5px 0;
     overflow: auto;
     margin-bottom: 16px;
-    padding: 8px;
 }
 
 #visiting-beeston-faqs h2 {
-    font-size: 225%;
+    font-size: 2.25rem;
     text-align: center;
     padding: 20px;
 }
@@ -389,9 +387,8 @@ h1 {
 #visiting-beeston-faqs-text {
     padding: 55px;
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
-    height: auto;
     border-radius: 20px;
-    font-size: 125%;
+    font-size: 1.25rem;
 }
 
 /* Beeston Map section */
@@ -399,14 +396,13 @@ h1 {
 #castle-map {
     width: 85%;
     margin: auto;
-    padding-top: 5px;
+    padding: 5px 0;
     overflow: auto;
     margin-bottom: 16px;
-    padding: 8px;
 }
 
 #castle-map h2 {
-    font-size: 225%;
+    font-size: 2.25rem;
     text-align: center;
     padding: 20px;
 }
@@ -417,13 +413,11 @@ h1 {
     position: relative;
     padding: 20px;
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
-    height: auto;
-    justify-content: center;
     border-radius: 20px;
 }
 
 .gmap_canvas {
-    width: auto;
+    width: 100%;
 }
 
 /* Timeline */
