@@ -60,17 +60,7 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 ## Testing
 
-### Testing User Stories from User Experience (UX) Section
-
-* First Time Visitor Goals
-
-* Returning Visitor Goals
-
-* Frequent Visitor Goals
-
-### Further Testing
-
-### Known Bugs
+For a detailed breakdown of testing, please see [Testing](https://github.com/NickCMoore/beeston-castle/blob/main/TESTING.md) file.
 
 ## Deployment
 
