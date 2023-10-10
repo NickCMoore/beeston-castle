@@ -806,15 +806,14 @@ fieldset {
     }
   }
 
-/*  Desktops, large screens */
-
+/* Desktops, large screens */
 @media (min-width: 992px) and (max-width: 1300px) {
 
-    #menu {
+    .menu {
         font-size: 113%;
     }
 
-    #logo {
+    .logo {
         font-size: 192%;
     }
 
@@ -822,35 +821,40 @@ fieldset {
         max-width: 1500px;
     }
 
+
     .timeline-content {
         font-size: 92%;
     }
 
-    #main-image-text {
+ 
+    .main-image-text {
         font-size: 150%;
     }
 
-    #essential-text {
+
+    .essential-text {
         font-size: 115%;
     }
+
 
     .sign-up-options {
         width: 415px;
         font-size: 88%;
     }
 
-    #visit-image-text {
+    .visit-image-text {
         font-size: 165%;
     }
 
-    #contact {
+    .contact {
         padding: 36px;
     }
 
-    #nav-button {
+    .nav-button {
         margin-right: 37px;
     }
 }
+
 
 /* iPads, Tablets */
 
