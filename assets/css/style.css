@@ -27,6 +27,7 @@ h1 {
 }
 
 #logo {
+    font-family: 'Nanum Myeongjo', serif;
     float: left;
     font-size: 265%;
     margin-left: 35px;
@@ -37,13 +38,16 @@ h1 {
 
 #nav {
     color:#5E6572;
-    font-size: 180%;
+    font-size: 200%;
     letter-spacing: 2px;
+    font-family: 'Nanum Myeongjo', serif;
+
 }
 
 #menu {
     line-height: 62px;
-    font-size: 142%;
+    font-size: 160%;
+    font-family: 'Nanum Myeongjo', serif;
 }
 
 #menu > li {
@@ -54,6 +58,7 @@ h1 {
 
 #menu a {
     color: inherit;
+    font-family: 'Nanum Myeongjo', serif;
 }
 
 #nav-toggle:checked~nav {
@@ -605,7 +610,7 @@ h1 {
 #contact-main-text h2 {
     font-size: 151%;
     font-family: 'Rosarivo', serif;
-    color: #5E6572;
+    color: #fff;
     text-align: center;
     letter-spacing: 2px;
     width: 600px;
@@ -620,7 +625,7 @@ h1 {
 #contact-main-text h3 {
     font-size: 242%;
     font-family: 'Rosarivo', serif;
-    color: #5E6572;
+    color: #fff;
     text-align: center;
     letter-spacing: 2px;
     width: 600px;

@@ -62,7 +62,29 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 **Colour Scheme**
 
+By using the [Coolors](https://coolors.co/1c2321-7d98a1-5e6572-a9b4c2) website, I was able to select a colour palette that would be suitable for all users and visually appealing.
+
+![Alt text](image-3.png)
+
 **Typography**
+
+Google Fonts was used to select a blend of fonts which would compliment each other and be accessible for all.
+
+Rosarivo was used for all headers and the logo text
+
+![Rosarivo](image-4.png)
+
+Nanum Myeongjo was used the body text.
+
+![Alt text](image-5.png)
+
+Montserrat & Lato were also used to provide a more contemporary contrast to the more traditional Rosarivo & Nanum Myeongjo styles.
+
+![Alt text](image-6.png)
+
+Lato
+
+![Alt text](image-7.png)
 
 **Imagery**
 
