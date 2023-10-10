@@ -878,6 +878,14 @@ fieldset {
         font-size: 192%;
     }
 
+    #timeline-main-text h2 {
+        top: 59%;
+    }
+
+    #timeline-main-text h3  {
+        top: 70%;
+    }
+
     .timeline {
         max-width: 1500px;
     }
@@ -886,8 +894,18 @@ fieldset {
         font-size: 92%;
     }
 
-    #main-image-text {
-        font-size: 150%;
+    #overall-main {
+        height: 533px;
+    }
+
+    #main-image-text h2 {
+        top: 60%;
+        font-size: 200%;
+    }
+
+    #main-image-text h3 {
+        top: 77%;
+        font-size: 295%;
     }
 
     #essential-text {
@@ -899,8 +917,24 @@ fieldset {
         font-size: 88%;
     }
 
-    #visit-image-text {
-        font-size: 165%;
+    #visit-image-text h2 {
+        font-size: 154%;
+        top: 59%;
+    }
+
+    #visit-image-text h3 {
+        font-size: 210%;
+        top: 71%;
+    }
+
+    #contact-main-text h2 {
+        font-size: 179%;
+        top: 65%;
+    }
+
+    #contact-main-text h3 {
+        font-size: 255%;
+        top: 83%;
     }
 
     #contact {
@@ -1223,7 +1257,7 @@ fieldset {
 
     #main-image-text h2 {
         font-size: 105%;
-        top: 78%;
+        top: 122%;
     }
 
     #main-image-text h3 {
@@ -1232,7 +1266,7 @@ fieldset {
     }
 
     #overall-main {
-        height: 422px;
+        height: 266px;
     }
 
     #overall-main-img {
@@ -1334,7 +1368,7 @@ fieldset {
     #visit-image-text h2 {
         font-size: 115%;
         width: 302px;
-        top: 71%;
+        top: 111%;
     }
 
     #visit-image-text h3 {
@@ -1404,7 +1438,7 @@ fieldset {
 
     #timeline-main-text h2 {
         font-size: 96%;
-        top: 68%;
+        top: 110%;
     }
 
     #timeline-main-text h3 {
@@ -1471,7 +1505,7 @@ fieldset {
     #contact-main-text h2 {
         font-size: 115%;
         width: 275px;
-        top: 77%;
+        top: 117%;
     }
 
     #contact-main-text h3 {
