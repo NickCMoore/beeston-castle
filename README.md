@@ -60,11 +60,31 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 **Wireframes**
 
+I used Balsamiq to create wireframes for the various pages in the site.
+
+*Home page*
+
+![Home page](home.png)
+
+*History page*
+
+![History page](history.png)
+
+*Visit page*
+
+![Visit page](visit.png)
+
+*Contact page*
+
+![Contact page](contact.png)
+
+
+
 **Colour Scheme**
 
 By using the [Coolors](https://coolors.co/1c2321-7d98a1-5e6572-a9b4c2) website, I was able to select a colour palette that would be suitable for all users and visually appealing.
 
-![Alt text](image-3.png)
+![Alt text](coolors.png)
 
 **Typography**
 
@@ -72,19 +92,19 @@ Google Fonts was used to select a blend of fonts which would compliment each oth
 
 Rosarivo was used for all headers and the logo text
 
-![Rosarivo](image-4.png)
+![Rosarivo](rosarivo.png)
 
 Nanum Myeongjo was used the body text.
 
-![Alt text](image-5.png)
+![Alt text](nanum.png)
 
 Montserrat & Lato were also used to provide a more contemporary contrast to the more traditional Rosarivo & Nanum Myeongjo styles.
 
-![Alt text](image-6.png)
+![Alt text](montserrat.png)
 
 Lato
 
-![Alt text](image-7.png)
+![Alt text](lato.png)
 
 **Imagery**
 
