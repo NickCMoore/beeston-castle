@@ -32,13 +32,13 @@ Contact - following on from this testing, the Contact page had 1 error.
 ### W3C CSS Validator Results
 No errors were found using this CSS valildator.
 
-![Alt text](image-1.png)
+![W3C CSS Validator](assets/images/css.png)
 
 ## Known Bugs
 
 **Resolved**
 
-![Beeston Castle Home Page HTML Validator testing](image.png)
+![Beeston Castle Home Page HTML Validator testing](assets/images/w3c-html.png)
 
 ## Further Testing ###
 
@@ -46,7 +46,7 @@ To further validate the website from a performance, accessibility, best practice
 
 The results were as follows:
 
-![Alt text](image-2.png)
+![Lighthouse report](assets/images/lighthouse.png)
 
 
 

@@ -64,27 +64,25 @@ I used Balsamiq to create wireframes for the various pages in the site.
 
 *Home page*
 
-![Home page](home.png)
+![Home page](assets/images/home.png)
 
 *History page*
 
-![History page](history.png)
+![History page](assets/images/history.png)
 
 *Visit page*
 
-![Visit page](visit.png)
+![Visit page](assets/images/visit.png)
 
 *Contact page*
 
-![Contact page](contact.png)
-
-
+![Contact page](assets/images/contact.png)
 
 **Colour Scheme**
 
 By using the [Coolors](https://coolors.co/1c2321-7d98a1-5e6572-a9b4c2) website, I was able to select a colour palette that would be suitable for all users and visually appealing.
 
-![Alt text](coolors.png)
+![Alt text](assets/images/coolors.png)
 
 **Typography**
 
@@ -92,19 +90,19 @@ Google Fonts was used to select a blend of fonts which would compliment each oth
 
 Rosarivo was used for all headers and the logo text
 
-![Rosarivo](rosarivo.png)
+![Rosarivo](assets/images/rosarivo.png)
 
 Nanum Myeongjo was used the body text.
 
-![Alt text](nanum.png)
+![Alt text](assets/images/nanum.png)
 
 Montserrat & Lato were also used to provide a more contemporary contrast to the more traditional Rosarivo & Nanum Myeongjo styles.
 
-![Alt text](montserrat.png)
+![Alt text](assets/images/montserrat.png)
 
 Lato
 
-![Alt text](lato.png)
+![Alt text](assets/images/lato.png)
 
 **Imagery**
 
