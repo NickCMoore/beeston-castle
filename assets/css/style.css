@@ -86,19 +86,23 @@ h1 {
 /* Main image and accompanying text */
 
 #overall-main {
-    height: 750px;
+    height: 691px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
 #overall-main-img {
-    background: url(../images/castle-front-main.jpg);
+    background: url(../images/castle-front-main-75.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
     position: relative;
     height: 100%;
+}
+
+#main-image-text {
+    height: 30px;
 }
 
 #main-image-text h2 {
@@ -715,7 +719,7 @@ fieldset {
     }
 
     #overall-main {
-        height: 1361px;
+        height: 664px;
     }
 
     #overall-main-img {
@@ -726,17 +730,17 @@ fieldset {
 
     #main-image-text h2 {
         font-size: 240%;
-        top: 29%
+        top: 54%
     }
 
     #main-image-text h3 {
         font-size: 280%;
-        top: 39%;
+        top: 68%;
     }
 
     #nav-button {
-        margin-right: 410px;
-        font-size: 150%;
+        margin-right: 203px;
+        font-size: 128%;
     }
 
     #subscribe {
@@ -764,12 +768,12 @@ fieldset {
 
     #timeline-main-text h2 {
         font-size: 240%;
-        top: 24%
+        top: 49%
     }
 
     #timeline-main-text h3 {
         font-size: 280%;
-        top: 34%;
+        top: 65%;
     }
 
     #history-of-beeston h2 {
@@ -796,12 +800,12 @@ fieldset {
 
     #visit-image-text h2 {
         font-size: 240%;
-        top: 29%
+        top: 49%
     }
 
     #visit-image-text h3 {
         font-size: 280%;
-        top: 39%;
+        top: 63%;
     }
 
     #admission-tickets h2 {
@@ -832,12 +836,12 @@ fieldset {
 
     #contact-main-text h2 {
         font-size: 240%;
-        top: 29%
+        top: 50%
     }
 
     #contact-main-text h3 {
         font-size: 280%;
-        top: 39%;
+        top: 65%;
     }
 
     #contact h4 {
@@ -846,7 +850,7 @@ fieldset {
 
     #contact {
         padding: 30px;
-        margin: 30px 750px;
+        margin: 21px 521px;
     }
 
     #contact input {
@@ -1103,12 +1107,12 @@ fieldset {
 
     #timeline-main-text h2 {
         font-size: 137%;
-        top: 39%;
+        top: 42%;
     }
 
     #timeline-main-text h3 {
         font-size: 220%;
-        top: 47%;
+        top: 50%;
     }
 
     #history-of-beeston h2 {
@@ -1186,8 +1190,6 @@ fieldset {
     #contact h4 {
         font-size: 17px;
     }
-
-
 }
 
 /*  Mobile devices. */
@@ -1213,20 +1215,24 @@ fieldset {
     
     #nav-button {
         width: 103px;
-        height: 50px;
         margin-right: 5px;
         margin-top: 5px;
         font-size: 94%;
+        padding: 4px;
     }
 
     #main-image-text h2 {
         font-size: 105%;
-        top: 47%;
+        top: 78%;
     }
 
     #main-image-text h3 {
-        font-size: 182%;
-        top: 55%;
+        font-size: 137%;
+        top: 86%;
+    }
+
+    #overall-main {
+        height: 422px;
     }
 
     #overall-main-img {
@@ -1325,9 +1331,16 @@ fieldset {
         max-height: 100%;
     }
 
-    #visit-image-text {
-        font-size: 105%;
-        top: 42%;
+    #visit-image-text h2 {
+        font-size: 115%;
+        width: 302px;
+        top: 71%;
+    }
+
+    #visit-image-text h3 {
+        font-size: 189%;
+        width: 275px;
+        top: 79%;
     }
 
     #admission-tickets {
@@ -1390,13 +1403,13 @@ fieldset {
     }
 
     #timeline-main-text h2 {
-        font-size: 110%;
-        top: 41%;
+        font-size: 96%;
+        top: 68%;
     }
 
     #timeline-main-text h3 {
-        font-size: 163%;
-        top: 49%;
+        font-size: 145%;
+        top: 77%;
     }
 
     #history-of-beeston h2 {
@@ -1448,7 +1461,6 @@ fieldset {
     #contact-main-img {
         max-width: 100%;
         max-height: 100%;
-        height: 90%;
     }
 
     #contact {
@@ -1459,12 +1471,13 @@ fieldset {
     #contact-main-text h2 {
         font-size: 115%;
         width: 275px;
+        top: 77%;
     }
 
     #contact-main-text h3 {
         font-size: 189%;
         width: 275px;
-        top: 55%;
+        top: 85%;
     }
 
     #contact h3 {
