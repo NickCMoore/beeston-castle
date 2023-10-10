@@ -555,7 +555,6 @@ h1 {
     justify-content: center;
 }
 
-
 /* Contact page */
 
 #contact-main-img {
@@ -567,8 +566,9 @@ h1 {
     position: relative;
 }
 
-#contact-main-text h2 {
-    font-size: 151%;
+#contact-main-text h2,
+#contact-main-text h3 {
+    font-size: 1.51rem;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
     text-align: center;
@@ -583,18 +583,8 @@ h1 {
 }
 
 #contact-main-text h3 {
-    font-size: 242%;
-    font-family: 'Rosarivo', serif;
-    color: #5E6572;
-    text-align: center;
-    letter-spacing: 2px;
-    width: 600px;
-    height: 600px;
-    padding: 20px;
+    font-size: 2.42rem;
     top: 58%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
 }
 
 .container {
@@ -607,38 +597,41 @@ h1 {
 #contact {
     background: #F9F9F9;
     padding: 50px;
-    margin: 30px 350px;
+    margin: 30px auto;
     background-color: #A9B4C2;
     box-shadow: 0 5px 8px 0 rgba(61, 159, 255, 0.2);
     border-radius: 20px;
     opacity: 0.95;
     font-family: 'Rosarivo', serif;
+    max-width: 800px;
 }
 
 #get-in-header {
     text-align: center;
     padding: 10px;
-    font-size: 163%;
+    font-size: 1.63rem;
     margin-top: 15px;
 }
 
 #contact h4 {
     margin: 5px 0 15px;
     display: block;
-    font-size: 23px;
+    font-size: 2.3rem;
     font-weight: 400;
 }
 
 fieldset {
-    border: medium none;
+    border: none;
     margin: -5px 0 10px;
     min-width: 100%;
     padding: 0;
-    width: 100%;
-    font-family: 'Rosarivo', serif;
 }
 
-#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea {
     width: 100%;
     border: 1px solid #ccc;
     background: #FFF;
@@ -660,7 +653,7 @@ fieldset {
     color: #FFF;
     margin: 0 0 5px;
     padding: 10px;
-    font-size: 15px;
+    font-size: 1.5rem;
     font-family: 'Rosarivo', serif;
 }
 
@@ -668,6 +661,7 @@ fieldset {
     background: #5E6572;
     transition: background-color 0.3s;
 }
+
 
 /* Extra large screens, TV */
 
