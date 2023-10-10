@@ -56,6 +56,8 @@ h1 {
     color: inherit;
 }
 
+/* Navigation Toggle */
+
 #nav-toggle:checked~nav {
     display: block;
 }
@@ -63,6 +65,8 @@ h1 {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
+/* Navigation Button */
 
 #nav-button {
     float: right;
@@ -93,40 +97,34 @@ h1 {
 }
 
 #overall-main-img {
-    background: url(../images/castle-front-main.jpg);
-    background-repeat: no-repeat;
+    background: url(../images/castle-front-main.jpg) no-repeat top center;
     background-size: cover;
-    background-position: top center;
     position: relative;
     height: 100%;
+}
+
+#main-image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 600px;
+    padding: 20px;
 }
 
 #main-image-text h2 {
     font-size: 120%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
-    text-align: center;
     letter-spacing: 2px;
-    width: 600px;
-    padding: 20px;
-    top: 12%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
 }
 
 #main-image-text h3 {
     font-size: 200%;
     font-family: 'Rosarivo', serif;
     color: #5E6572;
-    text-align: center;
     letter-spacing: 2px;
-    width: 600px;
-    padding: 20px;
-    top: 23%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
 }
 
 #main-button {
@@ -140,13 +138,13 @@ h1 {
     border-radius: 10px;
     font-size: 63%;
     cursor: pointer;
-    margin-top: 278px;
-    margin-left: 525px;
+    margin-top: 30px;
 }
 
 #main-button:hover {
     background-color: #7D98A1;
 }
+
 
 /* Essential Information Section */
 
