@@ -662,167 +662,149 @@ fieldset {
     transition: background-color 0.3s;
 }
 
-
 /* Extra large screens, TV */
-
 @media (min-width: 1301px) {
 
-    #logo {
-        font-size: 250%;
-        padding: 20px;
+    .header {
+      font-size: 250%;
+      padding: 20px;
     }
+  
 
-    #menu {
-        font-size: 136%;
-        line-height: 87px;
+    .menu {
+      font-size: 136%;
+      line-height: 87px;
     }
+  
+  
+    .main-content {
+      height: 1361px;
+    }
+  
 
-    #overall-main {
-        height: 1361px;
+    .image {
+      max-width: 100%;
+      max-height: 80%;
+      background-size: auto;
     }
+  
+ 
+    .text h2 {
+      font-size: 240%;
+      top: 29%;
+    }
+  
+    .text h3 {
+      font-size: 280%;
+      top: 39%;
+    }
+  
+ 
+    .nav-button {
+      margin-right: 410px;
+      font-size: 150%;
+    }
+  
+ 
+    .subscribe {
+      height: 337px;
+      padding-top: 1px;
+    }
+  
 
-    #overall-main-img {
-        max-width: 100%;
-        max-height: 80%;
-        background-size: auto;
+    .essential-text {
+      font-size: 136%;
     }
+  
 
-    #main-image-text h2 {
-        font-size: 240%;
-        top: 29%
+    .subscribe-title {
+      font-size: 218%;
     }
-
-    #main-image-text h3 {
-        font-size: 280%;
-        top: 39%;
+  
+    .subscribe-info {
+      font-size: 125%;
     }
-
-    #nav-button {
-        margin-right: 410px;
-        font-size: 150%;
-    }
-
-    #subscribe {
-        height: 337px;
-        padding-top: 1px;
-    }
-
-    #essential-text {
-        font-size: 136%;
-    }
-
-    #subscribe-title {
-        font-size: 218%;
-    }
-
-    #subscribe-info {
-        font-size: 125%;
-    }
-
-    #timeline-main-img {
-        max-width: 100%;
-        max-height: 100%;
-        background-size: auto;
-    }
-
-    #timeline-main-text h2 {
-        font-size: 240%;
-        top: 24%
-    }
-
-    #timeline-main-text h3 {
-        font-size: 280%;
-        top: 34%;
-    }
-
-    #history-of-beeston h2 {
-        font-size: 317%;
-    }
+  
 
     .timeline {
-        max-width: 1500px;
+      max-width: 1500px;
     }
+  
 
     .timeline-content {
-        font-size: 107%;
+      font-size: 107%;
     }
+  
 
-    #castle-video h2 {
-        font-size: 317%;
+    .castle-video-title {
+      font-size: 317%;
     }
+  
 
-    #visit-main-img {
-        max-width: 100%;
-        max-height: 100%;
-        background-size: auto;
+    .visit {
+      max-width: 100%;
+      max-height: 100%;
+      background-size: auto;
     }
-
-    #visit-image-text h2 {
-        font-size: 240%;
-        top: 29%
+ 
+    .admission-tickets h2 {
+      font-size: 275%;
     }
-
-    #visit-image-text h3 {
-        font-size: 280%;
-        top: 39%;
-    }
-
-    #admission-tickets h2 {
-        font-size: 275%;
-    }
+  
 
     .ticket-text {
-        font-size: 122%;
+      font-size: 122%;
+    }
+  
+
+    .visiting-beeston-faqs h2 {
+      font-size: 275%;
     }
 
-    #visiting-beeston-faqs h2 {
-        font-size: 275%;;
+    .visiting-beeston-faqs-text {
+      font-size: 143%;
     }
 
-    #visiting-beeston-faqs-text {
-        font-size: 143%;
+    .castle-map h2 {
+      font-size: 275%;
     }
+  
 
-    #castle-map h2 {
-        font-size: 275%;
+    .contact {
+      max-width: 100%;
+      max-height: 100%;
+      background-size: auto;
     }
+  
 
-    #contact-main-img {
-        max-width: 100%;
-        max-height: 100%;
-        background-size: auto;
+    .contact-text h2 {
+      font-size: 240%;
+      top: 29%;
     }
+  
+    .contact-text h3 {
+      font-size: 280%;
+      top: 39%;
+    }
+  
 
-    #contact-main-text h2 {
-        font-size: 240%;
-        top: 29%
+    .contact-form h4 {
+      font-size: 25px;
     }
-
-    #contact-main-text h3 {
-        font-size: 280%;
-        top: 39%;
+  
+    .contact-form {
+      padding: 30px;
     }
-
-    #contact h4 {
-        font-size: 25px;
+  
+    .contact-form input,
+    .contact-form textarea {
+      font-size: 16px;
     }
-
-    #contact {
-        padding: 30px;
+  
+    .contact-form button[type="submit"] {
+      font-size: 23px;
     }
-
-    #contact input {
-        font-size: 16px;
-    }
-
-    #contact textarea {
-        font-size: 16px;
-    }
-
-    #contact button[type="submit"] {
-        font-size: 23px;
-    }
-}
+  }
 
 /*  Desktops, large screens */
 
