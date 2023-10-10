@@ -145,7 +145,6 @@ h1 {
     background-color: #7D98A1;
 }
 
-
 /* Essential Information Section */
 
 #essential-container {
@@ -155,19 +154,18 @@ h1 {
 #essential-information {
     display: flex;
     background-color: #A9B4C2;
-    height: auto;
-    width: 75%;
-    margin: auto;
     border-radius: 20px;
+    margin: 0 auto;
+    max-width: 75%;
     padding-top: 20px;
 }
 
 #essential-text {
-    flex: 1 1 0;
-    text-align: center;
+    flex: 1;
     font-size: 140%;
     letter-spacing: 0.2em;
-    padding-top: 20px;
+    padding: 20px;
+    text-align: center;
 }
 
 #hr-divider {
@@ -178,8 +176,8 @@ h1 {
 }
 
 #essential-image {
-    height: 700px;
     max-width: 100%;
+    height: auto;
     background: url(../images/bw-main-hd.jpg) no-repeat top center;
 }
 
