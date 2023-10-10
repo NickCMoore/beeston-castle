@@ -8,6 +8,28 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 ## Contents
 
+* [**User Experience UX**](<#user-experience-ux>)
+    * [User Stories](<#wireframes>)
+* [**Design**](<#design>)
+    * [Wireframes](<#wireframes>)
+    * [Typography](<#typography>)
+    * [Colour Scheme](<#colour-scheme>)
+    * [Imagery](<#imagery>)
+* [**Technologies Used**](<#technologies-used>)
+* [**Testing**](<#testing>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [Code](<#code>)
+    * [Content](<#content>)
+    * [Media](<#media>)
+    * [Design](<#design>)
+    * [Acknowledgements](<#acknowledgements>)
+* [**Current Features**](<#current-features>)
+    * [Common Features](<#navigation-menu>)
+    * [Home Page](<#home-page>)
+* [**Future Features**](<#future-features>)
+* [**Acknowledgements**](<#acknowledgements>)
+
 ## User Experience (UX)
 
 ### User Stories
@@ -34,15 +56,15 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 * As a frequent user, I want to see if any new historical information about the castle has been published on the website.
 * As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or castle.
 
-### Design
+## Design
+
+**Wireframes**
 
 **Colour Scheme**
 
 **Typography**
 
 **Imagery**
-
-### Wireframes
 
 ## Technologies Used
 
