@@ -264,7 +264,8 @@ The method from cloning a project from GitHub is below:
 ### Content <a name="content"></a>
 
 * Content for the FAQs section was abridged from the [Lincoln Castle](https://www.lincolncastle.com/plan/faqs) website.
-* The Timeline section explaining the history of Beeston Castle is based on research from [Great British Life](https://www.greatbritishlife.co.uk/things-to-do/23153457.look-history-beeston-castle-cheshire/) 
+* The Timeline section explaining the history of Beeston Castle is based on research from [Great British Life](https://www.greatbritishlife.co.uk/things-to-do/23153457.look-history-beeston-castle-cheshire/)
+* Content for the Essential Information section was abridged from the [Alnwick Castle](https://www.alnwickcastle.com/) website.
 
 ### Design <a name="design-credits"></a>
 
