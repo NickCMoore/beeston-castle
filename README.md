@@ -10,7 +10,7 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 ## Contents
 
-* [**User Experience UX**](<#user-experience-ux>)
+* [**User Experience (UX)**](<#user-experience-ux>)
     * [User Stories](<#user-stories>)
 * [**Design**](<#design>)
     * [Wireframes](<#wireframes>)
