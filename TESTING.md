@@ -99,7 +99,7 @@ Further details on all bugs can be found in the Bugs section.
 
 [Home Page](https://nickcmoore.github.io/beeston-castle/index.html) - following on from this testing, the home page had 9 errors and 3 warnings.
 
-[History](https://nickcmoore.github.io/beeston-castle/history.html) - following on from this testing, the History page had 2 errors.
+[History](https://nickcmoore.github.io/beeston-castle/history.html) - following on from this testing, the History page had 1 error.
 
 [Visit](https://nickcmoore.github.io/beeston-castle/visit.html) - following on from this testing, the Visit page had 1 error.
 
@@ -127,6 +127,11 @@ I performed HTML Validation testing on the site and found the following errors w
 * Error: Duplicate ID notice-copy. From line 140, column 33; to line 140, column 55 - changed these from ID to classes.
 * Error: End tag section seen, but there were open elements. From line 145, column 13; to line 145, column 22 - added missing </div> to code.
 * Error: Unclosed element div. From line 118, column 13; to line 119, column 56 - linked to the above, Added missing </div> tag.
+
+
+The same 1 remaining error occurred across all of the other site pages and was as follows:
+
+* Error: Stray end tag i. - this tag was removed from the HTML Header in the remaining pages.
 
 
 
