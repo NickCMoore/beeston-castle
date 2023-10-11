@@ -130,9 +130,9 @@ Lato
 
 For a detailed breakdown of testing, please see [Testing](https://github.com/NickCMoore/beeston-castle/blob/main/TESTING.md) file.
 
-## Current Features ## <a name="current-features"></a>
+## Current Features <a name="current-features"></a>
 
-### Common Features ### <a name="common-features"></a>
+### Common Features <a name="common-features"></a>
 
 * __Navigation Section__
 
@@ -146,7 +146,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     ![Footer](assets/images/footer.png)
 
-### Home Page ### <a name="home-page"></a>
+### Home Page <a name="home-page"></a>
 
 * __Main Image and text__
 
@@ -166,7 +166,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     ![Subscribe](assets/images/essential.png)
 
-### History Page ### <a name="history-page"></a>
+### History Page <a name="history-page"></a>
 
 * __History Image and Text__
 
@@ -186,7 +186,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     ![Castle Video](assets/images/castle-video.png)
 
-### Visit Page ### <a name="visit-page"></a>
+### Visit Page <a name="visit-page"></a>
 
 * __Visit Image and Text__
 
@@ -210,7 +210,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * On the Visit page I felt it was important to have a map of the castle location which could be manipulated easily and enable users to plan their journeys in advance.
 
-### Contact Page ### <a name="contact-page"></a>
+### Contact Page <a name="contact-page"></a>
 
 * __Contact Image and Text__
 
