@@ -183,7 +183,7 @@ h1 {
     text-decoration: none;
 }
 
-#hr-divider {
+.hr-divider {
     border-bottom: 1px solid #A9B4C2;
     width: 55%;
     margin: auto;

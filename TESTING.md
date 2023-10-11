@@ -112,9 +112,23 @@ No errors were found using this CSS valildator.
 
 ## Known Bugs <a name="known-bugs"></a>
 
-**Resolved**
+During the build phase of the project, I resolved a number of bugs encountered with the site. These resolved bugs were recorded in GitHub Commit messages.
+
+I performed HTML Validation testing on the site and found the following errors with the home page.
 
 ![Beeston Castle Home Page HTML Validator testing](assets/images/w3c-html.png)
+
+* Error: Stray end tag i. From line 24, column 27; to line 24, column 30 - removed
+* Error: End tag section seen, but there were open elements. From line 62, column 5; to line 62, column 14 - added closing </div> tag
+* Error: Unclosed element div. From line 57, column 9; to line 57, column 34 - linked to bug 2 (added </div> tag)
+* Error: Duplicate ID hr-divider. From line 103, column 21; to line 103, column 40 - changed from ID to a Class
+* Error: Bad value tel:01234 567890 for attribute href on element a: Illegal character in scheme data: space is not allowed. From line 107, column 31; to line 107, column 57 - added spacing to the a element. 
+* Error: Attribute input not allowed on element button at this point. From line 132, column 29; to line 133, column 47 - removed 'input' wording from submit section.
+* Error: Duplicate ID notice-copy. From line 140, column 33; to line 140, column 55 - changed these from ID to classes.
+* Error: End tag section seen, but there were open elements. From line 145, column 13; to line 145, column 22 - added missing </div> to code.
+* Error: Unclosed element div. From line 118, column 13; to line 119, column 56 - linked to the above, Added missing </div> tag.
+
+
 
 ## Further Testing <a name="further-testing"></a>
 
