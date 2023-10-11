@@ -154,11 +154,11 @@ To further validate the website from a performance, accessibility, best practice
 
 The results were as follows:
 
-#Desktop
+__Desktop__
 
 ![Lighthouse](assets/images/lighthouse.png)
 
-#Mobile
+__Mobile__
 
 ![Lighthouse mobile](assets/images/lighthouse-mobile.png)
 
