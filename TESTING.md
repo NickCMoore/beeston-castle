@@ -5,9 +5,62 @@ I sent a deployed link to the website to many family members and friends who pro
 
 * First Time Visitor Goals
 
+    * As a first time visitor, I want to understand the main purpose of the site and learn more about the castle.
+
+    ![Purpose of castle](assets/images/info-user.png)
+
+    * As a first time visitor, I want to be able to easily navigate throughout the site to find content.
+
+    ![Navigation](assets/images/navigation1.png)
+
+    * As a first time visitor, I want to be able to easily plan a trip to the castle in advance. Therefore, I should be able to find out information such as how best to visit the castle and ticketing costs.
+
+    ![Ticketing](assets/images/visit-path.png)
+
+    As a first time visitor, I would like to access social media content about the castle, including content from the castle owners and also third parties.
+
+    ![Alt text](assets/images/social-media.png)
+
+    * As a first time visitor, I want to find out background information about the history of the castle in a presentable format.
+
+    ![Alt text](assets/images/timeline-user.png)
+
+    * As a first time visitor, I want to be able to contact the castle owners to ask any further personal queries about visiting the castle.
+
+    ![Alt text](assets/images/contact-user.png)
+
 * Returning Visitor Goals
 
+    * As a returning visitor, I want to find out the latest information about visiting the castle.
+
+    ![Latest info](assets/images/visit-path.png)
+
+    * As a returning visitor, I want to build on my existing knowledge of the history of the castle with updated historical facts.
+
+    ![Facts](assets/images/timeline-user.png)
+
+     * As a returning visitor, I want to find the best way to get in contact with the castle owners with any new questions I may have.
+
+    ![Alt text](assets/images/contact-user.png)
+
+    * As a returning visitor, I want to be able to easily access social media links which contains any new updates.
+
+    ![Alt text](assets/images/social-media.png)
+
 * Frequent Visitor Goals
+
+    * As a frequent user, I want to check to see if there is any updated important visitor information or if ticket prices have changed.
+
+    ![Latest info](assets/images/visit-path.png)
+
+
+    * As a frequent user, I want to see if any new historical information about the castle has been published on the website.
+
+    ![Facts](assets/images/timeline-user.png)
+
+    * As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or castle.
+
+    ![Newsletter](assets/images/subscribe-user.png)
 
 ## Browser Testing
 The website was tested by myself on a range of modern browsers including Chrome, Edge, Brave and Firefox. Load times were quick and no specific issues were encountered during this phase of testing.
