@@ -144,6 +144,7 @@ Upon resolving these errors in the W3C Validators, no further errors remain.
 * The Book Now CTA button on the home page does not work on smaller mobiles. The same is the case for the Facebook link in the footer. Mentor tried and was unable to resolve this. (UPDATE - now resolved by increasing width of button - clickable)
 * Email address box in the Subscribe form goes beyond the container edge in the smallest mobile resolutions.
 * Order of the navigation menu links to the other pages switches around at mobile resolutions.
+* Main banner images do not display fully at 3840 X 2160 (4K) and above.
 
 
 
