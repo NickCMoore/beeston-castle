@@ -994,7 +994,7 @@ fieldset {
     .container {
         height: 445px;
     }
-    
+
     #nav-button {
         margin-right: 37px;
     }  
@@ -1347,7 +1347,8 @@ fieldset {
     }
 
     #essential-text {
-        font-size: 82%;
+        font-size: 100%;
+        padding: 20px;
     }
 
     #essential-image {
