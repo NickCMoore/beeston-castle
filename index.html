@@ -133,14 +133,17 @@
                                 placeholder="Enter your email address" />
                             <button id="form-button" type="submit"
                                 value="submit">Send</button>
-                            <div class="sign-up-options">
-                                <input type="checkbox">
-                                <span class="notice-copy">News</span>
-                                <input type="checkbox">
-                                <span class="notice-copy">Events</span>
-                                <input type="checkbox">
-                                <span class="notice-copy">All</span>
-                            </div>
+                                <form id="notification-preferences">
+                                    <div class="sign-up-options">
+                                        <input type="checkbox" id="news">
+                                        <label for="news" class="notice-copy">News</label>
+                                        <input type="checkbox" id="events">
+                                        <label for="events" class="notice-copy">Events</label>
+                                        <input type="checkbox" id="all">
+                                        <label for="all" class="notice-copy">All</label>
+                                    </div>
+                                </form>
+                                
                         </form>
                     </div>
                 </div>
