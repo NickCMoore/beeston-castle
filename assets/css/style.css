@@ -1298,9 +1298,9 @@ fieldset {
     
     #menu {
         display: flex;
-        float: left;
+        float: right;
         line-height: 40px;
-        font-size: 94%;
+        font-size: 109%;
         margin-left: 5px;
     }
 
@@ -1309,7 +1309,7 @@ fieldset {
     }
     
     #logo {
-        font-size: 190%;
+        font-size: 154%;
         margin-left: 8px;
     }
     
@@ -1323,16 +1323,16 @@ fieldset {
 
     #main-image-text h2 {
         font-size: 105%;
-        top: 122%;
+        top: 80%;
     }
 
     #main-image-text h3 {
-        font-size: 137%;
-        top: 86%;
+        font-size: 135%;
+        top: 89%;
     }
 
     #overall-main {
-        height: 266px;
+        height: 393px;
     }
 
     #overall-main-img {
@@ -1354,7 +1354,7 @@ fieldset {
     }
 
     #essential-text {
-        font-size: 100%;
+        font-size: 85%;
         padding: 20px;
     }
 
@@ -1378,14 +1378,14 @@ fieldset {
 
     #subscribe-title {
         font-weight: bold;
-        font-size: 114%;
+        font-size: 109%;
         margin-top: 25px;
         text-align: center;
         margin-bottom: 20px;
     }
     
     #subscribe-info {
-        font-size: 69%;
+        font-size: 91%;
         max-width: 84%;
         margin-bottom: 30px;
     }
@@ -1395,7 +1395,7 @@ fieldset {
     }
 
     #form-email {
-        width: 241px;
+        width: 351px;
         height: 30px;
         margin-top: 35px;
         margin-left: 10px;
@@ -1409,7 +1409,7 @@ fieldset {
         font-family: 'Rosarivo', serif;
         font-size: 103%;
         width: auto;
-        font-size: 63%;
+        font-size: 87%;
         margin-top: 7px;
     }
 
@@ -1435,13 +1435,13 @@ fieldset {
     #visit-image-text h2 {
         font-size: 115%;
         width: 302px;
-        top: 111%;
+        top: 76%;
     }
 
     #visit-image-text h3 {
-        font-size: 189%;
+        font-size: 180%;
         width: 275px;
-        top: 79%;
+        top: 84%;
     }
 
     #admission-tickets {
@@ -1529,7 +1529,7 @@ fieldset {
     }
 
     .timeline-content {
-        font-size: 64%;
+        font-size: 83%;
         padding: 0.75rem;
         text-align: center;
     }
