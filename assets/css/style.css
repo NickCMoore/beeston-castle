@@ -1038,9 +1038,14 @@ fieldset {
         font-size: 94%;
     }
 
-    #main-image-text {
-        font-size: 107%;
-        top: 47%;
+    #main-image-text h2 {
+        font-size: 213%;
+        top: 44%;
+    }
+
+    #main-image-text h3 {
+        font-size: 282%;
+        top: 57%;
     }
 
     #overall-main-img {
@@ -1137,9 +1142,14 @@ fieldset {
         max-height: 100%;
     }
 
-    #visit-image-text {
-        font-size: 137%;
-        top: 42%;
+    #visit-image-text h2 {
+        font-size: 131%;
+        top: 46%;
+    }
+
+    #visit-image-text h3 {
+        font-size: 230%;
+        top: 54%;
     }
 
     #admission-tickets {
