@@ -724,26 +724,32 @@ fieldset {
 
     #main-image-text h2 {
         font-size: 250%;
+        top: 48%
     }
 
     #main-image-text h3 {
         font-size: 323%;
+        top: 63%;
     }
 
     #timeline-main-text h2 {
         font-size: 250%;
+        top: 48%;
     }
 
     #timeline-main-text h3 {
         font-size: 323%;
+        top: 62%;
     }
 
     #visit-image-text h2 {
         font-size: 250%;
+        top: 47%;
     }
 
     #visit-image-text h3 {
         font-size: 323%;
+        top: 61%;
     }
 
     #contact-main-text h2 {
@@ -752,6 +758,7 @@ fieldset {
 
     #contact-main-text h3 {
         font-size: 323%;
+        top: 63%
     }
 
 /* Large screens */
@@ -993,13 +1000,12 @@ fieldset {
     }
 
     .container {
-        height: 445px;
+        height: 477px;
     }
 
     #nav-button {
         margin-right: 37px;
     }  
-
 }
 
 /* iPads, Tablets */
