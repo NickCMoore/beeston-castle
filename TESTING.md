@@ -97,13 +97,13 @@ The website was run through both the [W3C HTML Validator](https://validator.w3.o
 ### W3C HTML Validator Results <a name="w3c-html-results"></a>
 Further details on all bugs can be found in the Bugs section.
 
-Home Page - following on from this testing, the home page had 9 errors and 3 warnings.
+[Home Page](https://nickcmoore.github.io/beeston-castle/index.html) - following on from this testing, the home page had 9 errors and 3 warnings.
 
-History - following on from this testing, the History page had 2 errors.
+[History](https://nickcmoore.github.io/beeston-castle/history.html) - following on from this testing, the History page had 2 errors.
 
-Visit - following on from this testing, the Visit page had 1 error.
+[Visit](https://nickcmoore.github.io/beeston-castle/visit.html) - following on from this testing, the Visit page had 1 error.
 
-Contact - following on from this testing, the Contact page had 1 error.
+[Contact](https://nickcmoore.github.io/beeston-castle/contact.html) - following on from this testing, the Contact page had 1 error.
 
 ### W3C CSS Validator Results <a name="w3c-css-results"></a>
 No errors were found using this CSS valildator.

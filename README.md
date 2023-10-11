@@ -158,7 +158,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * This section is to enable users to quickly access key information that they need about Beeston Castle. This information includes opening times, the castle location and contact details for the castle. The grey colour background links to that of the navigation menu and heading text. I wanted this section to seem like a printed card and be in a bitesize format.
 
-    ![Essential Information](image-2.png)
+    ![Essential Information](assets/images/essential.png)
 
 * __Subscribe Form__
 
