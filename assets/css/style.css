@@ -710,6 +710,11 @@ fieldset {
     transition: background-color 0.3s;
 }
 
+#address {
+    text-align: center;
+    margin-top: 10px;
+}
+
 /* Largest screens, TV */
 
 @media (min-width: 1601px) {
@@ -759,6 +764,11 @@ fieldset {
     #contact-main-text h3 {
         font-size: 323%;
         top: 63%
+    }
+
+    #address {
+        text-align: center;
+        margin: 58px;
     }
 
 /* Large screens */
@@ -1603,4 +1613,9 @@ fieldset {
         text-align: center;
     }
 
+    #address {
+        font-size: 78%;
+        text-align: center;
+        margin: 5px;
+    }
 }

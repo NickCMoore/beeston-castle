@@ -13,7 +13,9 @@
 * [**Code Validation Testing**](<#code-validation-testing>)
     * [W3C HTML Validator Results](<#w3c-html-results>)
     * [W3C CSS Validator Results](<#w3c-css-results>)
-* [**Known Bugs**](<#known-bugs>)
+* [**Bugs**](<#bugs>)
+    * [Resolved](<#resolved-bugs>)
+    * [Unresolved](<#unresolved-bugs>)
 * [**Further Testing**](<#known-bugs>)
 
 
@@ -110,7 +112,9 @@ No errors were found using this CSS valildator.
 
 ![W3C CSS Validator](assets/images/css.png)
 
-## Known Bugs <a name="known-bugs"></a>
+## Bugs <a name="known-bugs"></a>
+
+### Resolved <a name="resolved-bugs"></a>
 
 During the build phase of the project, I resolved a number of bugs encountered with the site. These resolved bugs were recorded in GitHub Commit messages.
 
@@ -128,10 +132,17 @@ I performed HTML Validation testing on the site and found the following errors w
 * Error: End tag section seen, but there were open elements. From line 145, column 13; to line 145, column 22 - added missing </div> to code.
 * Error: Unclosed element div. From line 118, column 13; to line 119, column 56 - linked to the above, Added missing </div> tag.
 
-
 The same 1 remaining error occurred across all of the other site pages and was as follows:
 
 * Error: Stray end tag i. - this tag was removed from the HTML Header in the remaining pages.
+
+### Unresolved <a name="resolved-bugs"></a>
+
+* Some CSS code which has been formatted correctly in VS Code, the alignment of some CSS properties are unintentionally indented when it appears in GitHub. Spoke with mentor about this and we were unable to resolve the bug.
+* The Book Now CTA button on the home page does not work on smaller mobiles. The same is the case for the Facebook link in the footer. Mentor tried and was unable to resolve this.
+* Email address box in the Subscribe form goes beyond the container edge in some smaller mobile resolutions.
+* Order of the navigation menu links to the other pages switches around at mobile resolutions.
+
 
 
 
