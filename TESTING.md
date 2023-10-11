@@ -24,60 +24,60 @@ I sent a deployed link to the website to many family members and friends who pro
 
 * __First Time Visitor Goals__ <a name="first-time-visitor-goals"></a>
 
-    * As a first time visitor, I want to understand the main purpose of the site and learn more about the castle.
+    * As a first time visitor, I want to understand the main purpose of the site and learn more about the castle. By accesing the home page, it helps me to understand the reasoning behind the site. If I want to learn more about the castle, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
     ![Purpose of castle](assets/images/info-user.png)
 
-    * As a first time visitor, I want to be able to easily navigate throughout the site to find content.
+    * As a first time visitor, I want to be able to easily navigate throughout the site to find content. To navigate through the site, the user can click on the links in the navigation menu and also on the Beeston Castle icon to return to the home page.
 
     ![Navigation](assets/images/navigation1.png)
 
-    * As a first time visitor, I want to be able to easily plan a trip to the castle in advance. Therefore, I should be able to find out information such as how best to visit the castle and ticketing costs.
+    * As a first time visitor, I want to be able to easily plan a trip to the castle in advance. Therefore, I should be able to find out information such as how best to visit the castle and ticketing costs. To do this, a user can click on the Visit link and then easily find out this information.
 
     ![Ticketing](assets/images/visit-path.png)
 
-    * As a first time visitor, I would like to access social media content about the castle, including content from the castle owners and also third parties.
+    * As a first time visitor, I would like to access social media content about the castle, including content from the castle owners and also third parties. Easily accessible social media links are included in the footer of every page for users.
 
     ![Alt text](assets/images/social-media.png)
 
-    * As a first time visitor, I want to find out background information about the history of the castle in a presentable format.
+    * As a first time visitor, I want to find out background information about the history of the castle in a presentable format. If I want to learn more about the castle history, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
     ![Alt text](assets/images/timeline-user.png)
 
-    * As a first time visitor, I want to be able to contact the castle owners to ask any further personal queries about visiting the castle.
+    * As a first time visitor, I want to be able to contact the castle owners to ask any further personal queries about visiting the castle. If I want to contact the castle owners, from the homepage, I click on Contact in the Navigation Menu and then will be able to access a contact form where I can submit my query.
 
     ![Alt text](assets/images/contact-user.png)
 
 * __Returning Visitor Goals__ <a name="returning-visitor-goals"></a>
 
-    * As a returning visitor, I want to find out the latest information about visiting the castle.
+    * As a returning visitor, I want to find out the latest information about visiting the castle. To do this, from the homepage, I click on the Visit link in the Navigation Menu and then the information will be presented to me.
 
     ![Latest info](assets/images/visit-path.png)
 
-    * As a returning visitor, I want to build on my existing knowledge of the history of the castle with updated historical facts.
+    * As a returning visitor, I want to build on my existing knowledge of the history of the castle with updated historical facts.  If I want to learn more about the castle history, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
     ![Facts](assets/images/timeline-user.png)
 
-     * As a returning visitor, I want to find the best way to get in contact with the castle owners with any new questions I may have.
+     * As a returning visitor, I want to find the best way to get in contact with the castle owners with any new questions I may have. If I want to contact the castle owners, from the homepage, I click on Contact in the Navigation Menu and then will be able to access a contact form where I can submit my query.
 
     ![Alt text](assets/images/contact-user.png)
 
-    * As a returning visitor, I want to be able to easily access social media links which contains any new updates.
+    * As a returning visitor, I want to be able to easily access social media links which contains any new updates. Easily accessible social media links are included in the footer of every page for users.
 
     ![Alt text](assets/images/social-media.png)
 
 * __Frequent Visitor Goals__ <a name="frequent-visitor-goals"></a>
 
-    * As a frequent user, I want to check to see if there is any updated important visitor information or if ticket prices have changed.
+    * As a frequent user, I want to check to see if there is any updated important visitor information or if ticket prices have changed. To do this, from the homepage, I click on the Visit link in the Navigation Menu and then the latest visitor information will be presented to me.
 
     ![Latest info](assets/images/visit-path.png)
 
 
-    * As a frequent user, I want to see if any new historical information about the castle has been published on the website.
+    * As a frequent user, I want to see if any new historical information about the castle has been published on the website. If I want to find out if any castle history has been added to the site, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
     ![Facts](assets/images/timeline-user.png)
 
-    * As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or castle.
+    * As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or castle. From the home page, I scroll down to the bottom of the page and enter my email address in the newsletter submission form and this will enable me to subscribe to the latest newsletter.
 
     ![Newsletter](assets/images/subscribe-user.png)
 
