@@ -274,10 +274,10 @@ The method from cloning a project from GitHub is below:
 
 ### Media <a name="media"></a>
 
-* The main logo and social media links were taken from [Code Awesome's](https://fontawesome.com/) database of icons.
+* The main logo and social media links were taken from [Font Awesome's](https://fontawesome.com/) database of icons.
 
 * Photos used were either from the Pexels website or Matt Thomas' [Flickr](https://www.flickr.com/photos/31045971@N00/14983599442/in/photolist-oQ3S6q-24hyGAe-aqYY9J-d5jqtU-9Q1khz-UGBtKt-pY8FnR-H89oWt-28sxMfH-aBmcc6-8pA8wE-pXY6XJ-Uv52QB-J6icyv-8wRs3W-WGjCme-Uv53XB-c9kiM3-Usj7MG-d5jzyw-HUbuLj-TuRRMr-eie29i-cUGBkA-25Gz6eq-VqmJaq-gndmoS-CtJqBM-q1aKEa-9tMDQw-inXC4L-a6GaDa-e2MzK9-UCXFBE-9uRiDk-4qo9V-Lu39Sa-bkjPHH-Ek8FmM-PRV5an-3dKTbL-MkH3hJ-8wRtMN-FuF1eU-cz6tnd-NBmdVW-fCghAV-RxnzDP-gndEPM-oxhAuj) page (with permission).
 
 ### Acknowledgments <a name="acknowledgements"></a>
 
-* My mentor, Jack Wachira, for his continious helpful feedback.
+* My mentor, Jack Wachira, for his continious helpful feedback. I would like to thank the Slack community and all at the Code Institute for their help and support. Thanks also go to my friends and family for providing feedback and help with the user story test cases.
