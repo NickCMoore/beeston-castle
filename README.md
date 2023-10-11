@@ -19,7 +19,7 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
 * [**Current Features**](<#current-features>)
-    * [Common Features](<#navigation-menu>)
+    * [Common Features](<#common-features>)
     * [Home Page](<#home-page>)
     * [History Page](<#history-page>)
     * [Visit Page](<#visit-page>)
