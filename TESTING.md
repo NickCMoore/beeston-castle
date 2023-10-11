@@ -136,6 +136,8 @@ The same 1 remaining error occurred across all of the other site pages and was a
 
 * Error: Stray end tag i. - this tag was removed from the HTML Header in the remaining pages.
 
+Upon resolving these errors in the W3C Validators, no further errors remain.
+
 ### Unresolved <a name="resolved-bugs"></a>
 
 * Some CSS code which has been formatted correctly in VS Code, the alignment of some CSS properties are unintentionally indented when it appears in GitHub. Spoke with mentor about this and we were unable to resolve the bug.
