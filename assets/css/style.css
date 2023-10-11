@@ -936,11 +936,13 @@ fieldset {
     }
 
     #timeline-main-text h2 {
-        top: 59%;
+        top: 56%;
+        font-size: 148%;
     }
 
     #timeline-main-text h3  {
         top: 70%;
+        font-size: 245%;
     }
 
     .timeline {
