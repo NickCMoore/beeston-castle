@@ -6,6 +6,9 @@
     * [Testing User Stories](<#testing-user-stories>)
 * [**Browser Testing**](<#browser-testing>)
     * [Testing User Stories](<#testing-user-stories>)
+         * [First Time Visitor Goals](<#first-time-visitor-goals>)
+         * [Returning Visitor Goals](<#returning-visitor-goals>)
+         * [Frequent Visitor Goals](<#frequent-visitor-goals>)
 * [**Compatability and Responsiveness Testing**](<#compatability-responsiveness-testing>)
 * [**Code Validation Testing**](<#code-validation-testing>)
     * [W3C HTML Validator Results](<#w3c-html-results>)
@@ -19,7 +22,7 @@ I sent a deployed link to the website to many family members and friends who pro
 
 ### Testing User Stories from User Experience (UX) Section <a name="testing-user-stories"></a>
 
-* __First Time Visitor Goals__
+* __First Time Visitor Goals__ <a name="first-time-visitor-goals"></a>
 
     * As a first time visitor, I want to understand the main purpose of the site and learn more about the castle.
 
@@ -45,7 +48,7 @@ I sent a deployed link to the website to many family members and friends who pro
 
     ![Alt text](assets/images/contact-user.png)
 
-* __Returning Visitor Goals__
+* __Returning Visitor Goals__ <a name="returning-visitor-goals"></a>
 
     * As a returning visitor, I want to find out the latest information about visiting the castle.
 
@@ -63,7 +66,7 @@ I sent a deployed link to the website to many family members and friends who pro
 
     ![Alt text](assets/images/social-media.png)
 
-* __Frequent Visitor Goals__
+* __Frequent Visitor Goals__ <a name="frequent-visitor-goals"></a>
 
     * As a frequent user, I want to check to see if there is any updated important visitor information or if ticket prices have changed.
 
