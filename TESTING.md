@@ -141,8 +141,8 @@ Upon resolving these errors in the W3C Validators, no further errors remain.
 ### Unresolved <a name="resolved-bugs"></a>
 
 * Some CSS code which has been formatted correctly in VS Code, the alignment of some CSS properties are unintentionally indented when it appears in GitHub. Spoke with mentor about this and we were unable to resolve the bug.
-* The Book Now CTA button on the home page does not work on smaller mobiles. The same is the case for the Facebook link in the footer. Mentor tried and was unable to resolve this.
-* Email address box in the Subscribe form goes beyond the container edge in some smaller mobile resolutions.
+* The Book Now CTA button on the home page does not work on smaller mobiles. The same is the case for the Facebook link in the footer. Mentor tried and was unable to resolve this. (UPDATE - now resolved)
+* Email address box in the Subscribe form goes beyond the container edge in the smallest mobile resolutions.
 * Order of the navigation menu links to the other pages switches around at mobile resolutions.
 
 

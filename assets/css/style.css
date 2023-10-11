@@ -1343,7 +1343,7 @@ fieldset {
     }
 
     #nav-button {
-        width: 59px;
+        width: 100px;
         margin-right: 5px;
         margin-top: 5px;
         font-size: 94%;
@@ -1351,13 +1351,13 @@ fieldset {
     }
 
     #main-image-text h2 {
-        font-size: 105%;
-        top: 80%;
+        font-size: 94%;
+        top: 83%;
     }
 
     #main-image-text h3 {
-        font-size: 135%;
-        top: 89%;
+        font-size: 98%;
+        top: 91%;
     }
 
     #overall-main {
