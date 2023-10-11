@@ -154,9 +154,12 @@ To further validate the website from a performance, accessibility, best practice
 
 The results were as follows:
 
-![Lighthouse report](assets/images/lighthouse.png)
+#Desktop
 
+![Lighthouse](assets/images/lighthouse.png)
 
+#Mobile
 
+![Lighthouse mobile](assets/images/lighthouse-mobile.png)
 
 Click [here](https://github.com/NickCMoore/beeston-castle/blob/main/TESTING.md) to return to the ReadMe file.
