@@ -1310,7 +1310,7 @@ fieldset {
         display: flex;
         float: right;
         line-height: 40px;
-        font-size: 109%;
+        font-size: 100%;
         margin-left: 5px;
     }
 
@@ -1324,7 +1324,7 @@ fieldset {
     }
     
     #nav-button {
-        width: 103px;
+        width: 59px;
         margin-right: 5px;
         margin-top: 5px;
         font-size: 94%;
