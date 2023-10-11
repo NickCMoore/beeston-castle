@@ -1,9 +1,17 @@
-## User Testing
+# __Testing__ #
+
+## Table of Contents
+
+1. [Introduction](#usertesting)
+2. [Sub Paragraph](#userstories)
+
+
+## User Testing ##
 I sent a deployed link to the website to many family members and friends who provide constructive feedback and also simulated the various user cases (listed at the beginning of the Readme document) who might visit the site. This testing gave me an opportunity to see how the website would perform on a range of devices. No major display and navigation issues were encountered.
 
-### Testing User Stories from User Experience (UX) Section
+### Testing User Stories from User Experience (UX) Section <a name="userstories"></a>
 
-* First Time Visitor Goals
+* __First Time Visitor Goals__
 
     * As a first time visitor, I want to understand the main purpose of the site and learn more about the castle.
 
@@ -17,7 +25,7 @@ I sent a deployed link to the website to many family members and friends who pro
 
     ![Ticketing](assets/images/visit-path.png)
 
-    As a first time visitor, I would like to access social media content about the castle, including content from the castle owners and also third parties.
+    * As a first time visitor, I would like to access social media content about the castle, including content from the castle owners and also third parties.
 
     ![Alt text](assets/images/social-media.png)
 
@@ -29,7 +37,7 @@ I sent a deployed link to the website to many family members and friends who pro
 
     ![Alt text](assets/images/contact-user.png)
 
-* Returning Visitor Goals
+* __Returning Visitor Goals__
 
     * As a returning visitor, I want to find out the latest information about visiting the castle.
 
@@ -47,7 +55,7 @@ I sent a deployed link to the website to many family members and friends who pro
 
     ![Alt text](assets/images/social-media.png)
 
-* Frequent Visitor Goals
+* __Frequent Visitor Goals__
 
     * As a frequent user, I want to check to see if there is any updated important visitor information or if ticket prices have changed.
 

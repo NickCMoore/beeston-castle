@@ -11,31 +11,36 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 ## Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
-    * [User Stories](<#wireframes>)
+    * [User Stories](<#user-stories>)
 * [**Design**](<#design>)
     * [Wireframes](<#wireframes>)
-    * [Typography](<#typography>)
     * [Colour Scheme](<#colour-scheme>)
-    * [Imagery](<#imagery>)
+    * [Typography](<#typography>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
 * [**Current Features**](<#current-features>)
     * [Common Features](<#navigation-menu>)
     * [Home Page](<#home-page>)
+    * [History Page](<#history-page>)
+    * [Visit Page](<#visit-page>)
+    * [Contact Page](<#contact-page>)
 * [**Deployment**](<#deployment>)
+    * [Deploying](<#deploying>)
+    * [Forking](<#forking>)
+    * [Cloning](<#cloning>)
 * [**Credits**](<#credits>)
     * [Code](<#code>)
     * [Content](<#content>)
     * [Media](<#media>)
-    * [Design](<#design>)
+    * [Design](<#design-credits>)
     * [Acknowledgements](<#acknowledgements>)
 
 * [**Future Features**](<#future-features>)
 * [**Acknowledgements**](<#acknowledgements>)
 
-## User Experience (UX)
+## User Experience (UX) <a name="user-experience-ux"></a>
 
-### User Stories
+### User Stories <a name="user-stories"></a>
 
 **First Time Visitor Goals**
 
@@ -59,9 +64,9 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 * As a frequent user, I want to see if any new historical information about the castle has been published on the website.
 * As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or castle.
 
-## Design
+## Design <a name="design"></a>
 
-**Wireframes**
+**Wireframes** <a name="wireframes"></a>
 
 I used [Balsamiq](https://balsamiq.com/) to create wireframes for the various pages in the site.
 
@@ -81,13 +86,13 @@ I used [Balsamiq](https://balsamiq.com/) to create wireframes for the various pa
 
 ![Contact page](assets/images/contact.png)
 
-**Colour Scheme**
+**Colour Scheme** <a name="colour-scheme"></a>
 
 By using the [Coolors](https://coolors.co/1c2321-7d98a1-5e6572-a9b4c2) website, I was able to select a colour palette that would be suitable for all users and visually appealing.
 
 ![Alt text](assets/images/coolors.png)
 
-**Typography**
+**Typography** <a name="typography"></a>
 
 Google Fonts was used to select a blend of fonts which would compliment each other and be accessible for all.
 
@@ -107,9 +112,7 @@ Lato
 
 ![Alt text](assets/images/lato.png)
 
-**Imagery**
-
-## Technologies Used
+## Technologies Used <a name="technologies-used"></a>
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) - HTML5 used to generate the site structure.
 
@@ -123,13 +126,13 @@ Lato
 
 * [VSCode](https://code.visualstudio.com/) - VSCode was used to build and edit the source-code for the website.
 
-## Testing
+## Testing <a name="testing"></a>
 
 For a detailed breakdown of testing, please see [Testing](https://github.com/NickCMoore/beeston-castle/blob/main/TESTING.md) file.
 
-## Current Features ##
+## Current Features ## <a name="current-features"></a>
 
-### Common Sections ###
+### Common Features ### <a name="common-features"></a>
 
 * __Navigation Section__
 
@@ -143,7 +146,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     ![Footer](assets/images/footer.png)
 
-### Home Page ###
+### Home Page ### <a name="home-page"></a>
 
 * __Main Image and text__
 
@@ -163,7 +166,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     ![Subscribe](assets/images/essential.png)
 
-### History Page ###
+### History Page ### <a name="history-page"></a>
 
 * __History Image and Text__
 
@@ -183,7 +186,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     ![Castle Video](assets/images/castle-video.png)
 
-### Visit Page ###
+### Visit Page ### <a name="visit-page"></a>
 
 * __Visit Image and Text__
 
@@ -207,7 +210,7 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * On the Visit page I felt it was important to have a map of the castle location which could be manipulated easily and enable users to plan their journeys in advance.
 
-### Contact Page ###
+### Contact Page ### <a name="contact-page"></a>
 
 * __Contact Image and Text__
 
@@ -221,9 +224,9 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     ![Contact](assets/images/contact-form.png)
 
-## Deployment
+## Deployment <a name="deployment"></a>
 
-### Deploying The Project
+### Deploying The Project <a name="deploying"></a>
 
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
 
@@ -233,14 +236,14 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate a successful deployment.
 * The GitHub repository live link is here - [Beeston Castle](https://github.com/NickCMoore/beeston-castle)
 
-### Forking The Repository Using GitHub
+### Forking The Repository Using GitHub <a name="forking"></a>
 
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository:
 
 * Log in to **GitHub** and locate the repository.
 * On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
 
-### Creating A Local Clone Of The Project
+### Creating A Local Clone Of The Project <a name="cloning"></a>
 
 The method from cloning a project from GitHub is below:
 
@@ -251,30 +254,30 @@ The method from cloning a project from GitHub is below:
 * Type **git clone**, and then paste the URL copied from GitHub.
 * Press **Enter** and the local clone will be created.
 
-## Credits
+## Credits <a name="credits"></a>
 
-### Code
+### Code <a name="code"></a>
 
 * Code for the footer section was adapted from [Code Institute's](https://codeinstitute.net/global/) Love Running walkthrough project.
 * The Timeline section is based on [code](https://codepen.io/Divyesh-K/pen/YzxLQNz) written by [CodePen](https://codepen.io/) author Divyesh Kamalanaban
 
-### Content
+### Content <a name="content"></a>
 
 * Content for the FAQs section was abridged from the [Lincoln Castle](https://www.lincolncastle.com/plan/faqs) website.
 * The Timeline section explaining the history of Beeston Castle is based on research from [Great British Life](https://www.greatbritishlife.co.uk/things-to-do/23153457.look-history-beeston-castle-cheshire/) 
 
-### Design
+### Design <a name="design-credits"></a>
 
 * [Balsamiq](https://balsamiq.com/) - was used to generate the wireframes for the project.
 * The colour palette for the site was chosen with accessibility in mind from the [Coolors](https://coolors.co/1c2321-7d98a1-5e6572-a9b4c2) site.
 * The following fonts used throughout the site and were imported from Google Fonts - Montserrat, Rosarivo, Nanum Myeongjo and Lato.
 
-### Media
+### Media <a name="media"></a>
 
 * The main logo and social media links were taken from [Code Awesome's](https://fontawesome.com/) database of icons.
 
 * Photos used were either from the Pexels website or Matt Thomas' [Flickr](https://www.flickr.com/photos/31045971@N00/14983599442/in/photolist-oQ3S6q-24hyGAe-aqYY9J-d5jqtU-9Q1khz-UGBtKt-pY8FnR-H89oWt-28sxMfH-aBmcc6-8pA8wE-pXY6XJ-Uv52QB-J6icyv-8wRs3W-WGjCme-Uv53XB-c9kiM3-Usj7MG-d5jzyw-HUbuLj-TuRRMr-eie29i-cUGBkA-25Gz6eq-VqmJaq-gndmoS-CtJqBM-q1aKEa-9tMDQw-inXC4L-a6GaDa-e2MzK9-UCXFBE-9uRiDk-4qo9V-Lu39Sa-bkjPHH-Ek8FmM-PRV5an-3dKTbL-MkH3hJ-8wRtMN-FuF1eU-cz6tnd-NBmdVW-fCghAV-RxnzDP-gndEPM-oxhAuj) page (with permission).
 
-### Acknowledgments
+### Acknowledgments <a name="acknowledgements"></a>
 
 * My mentor, Jack Wachira, for his continious helpful feedback.
