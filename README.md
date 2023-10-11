@@ -6,7 +6,7 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 [Link to live website](https://nickcmoore.github.io/beeston-castle/)
 
-![Responsive](assets/images/responsive.png)
+![Responsive](media/responsive.png)
 
 ## Contents
 
@@ -72,25 +72,25 @@ I used [Balsamiq](https://balsamiq.com/) to create wireframes for the various pa
 
 *Home page*
 
-![Home page](assets/images/home.png)
+![Home page](media/home.png)
 
 *History page*
 
-![History page](assets/images/history.png)
+![History page](media/history.png)
 
 *Visit page*
 
-![Visit page](assets/images/visit.png)
+![Visit page](media/visit.png)
 
 *Contact page*
 
-![Contact page](assets/images/contact.png)
+![Contact page](media/contact.png)
 
 **Colour Scheme** <a name="colour-scheme"></a>
 
 By using the [Coolors](https://coolors.co/1c2321-7d98a1-5e6572-a9b4c2) website, I was able to select a colour palette that would be suitable for all users and visually appealing.
 
-![Alt text](assets/images/coolors.png)
+![Alt text](media/coolors.png)
 
 **Typography** <a name="typography"></a>
 
@@ -98,19 +98,19 @@ Google Fonts was used to select a blend of fonts which would compliment each oth
 
 Rosarivo was used for all headers and the logo text
 
-![Rosarivo](assets/images/rosarivo.png)
+![Rosarivo](media/rosarivo.png)
 
 Nanum Myeongjo was used the body text.
 
-![Alt text](assets/images/nanum.png)
+![Alt text](media/nanum.png)
 
 Montserrat & Lato were also used to provide a more contemporary contrast to the more traditional Rosarivo & Nanum Myeongjo styles.
 
-![Alt text](assets/images/montserrat.png)
+![Alt text](media/montserrat.png)
 
 Lato
 
-![Alt text](assets/images/lato.png)
+![Alt text](media/lato.png)
 
 ## Technologies Used <a name="technologies-used"></a>
 
@@ -138,13 +138,13 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * This section runs across all pages and provides a simple way to navigate through the key sections of the site. The logo was taken from a Font Awesome logo and was chosen for its simplicity.
 
-    ![Navigation Menu](assets/images/navigation.png)
+    ![Navigation Menu](media/navigation.png)
 
 * __Footer Section__
 
     *Across the bottom of every page is a footer which containers Font Awesome links to the main social media channels.
 
-    ![Footer](assets/images/footer.png)
+    ![Footer](media/footer.png)
 
 ### Home Page <a name="home-page"></a>
 
@@ -152,19 +152,19 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * The image is meant to draw the user in by showing the profile of the castle. The text reiterates the site name and also encourages the user that they are on an adventure with the strapline. There is also a call to action button on the right hand side to make it easy for users who wish to make bookings on the site.
 
-    ![Main image and text](assets/images/main-image-text.png)
+    ![Main image and text](media/main-image-text.png)
 
 * __Essential Information__
 
     * This section is to enable users to quickly access key information that they need about Beeston Castle. This information includes opening times, the castle location and contact details for the castle. The grey colour background links to that of the navigation menu and heading text. I wanted this section to seem like a printed card and be in a bitesize format.
 
-    ![Essential Information](assets/images/essential.png)
+    ![Essential Information](media/essential.png)
 
 * __Subscribe Form__
 
     * To enable users to keep up to date with news and events at the castle, I included a newsletter subscription form at the bottom of the home page. This also means the castle can quickly get subscribers signed up and involved. The form is designed to deliberately be simple and continues the muted color palette from earlier in the home page.
 
-    ![Subscribe](assets/images/essential.png)
+    ![Subscribe](media/essential.png)
 
 ### History Page <a name="history-page"></a>
 
@@ -172,19 +172,19 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * This image and text has a similar purpose to the homepage, in that it is intended to draw the user in and make them feel like they would be going on an adventure by visiting the site. The banner text "A Journey Through Time" is meant to capture this. Stylistically, the section has a consistent format and layout to the homepage.
 
-    ![History Image](assets/images/history-image-text.png)
+    ![History Image](media/history-image-text.png)
 
 * __Timeline__
 
     * The timeline is designed for those users who visit the site wanting to find out more about the historical background behind the castle. The styling stays consistent with the colour palette and layout of the previous pages. It gives a simple short overview of the key events in the castle's history.
 
-    ![Timeline](assets/images/timeline.png)
+    ![Timeline](media/timeline.png)
 
 * __Castle Video__
 
     * This video has been included to help users visualise what it would be like to visit the castle. It draws users in with the drone footage of the castle and intentionally follows on the from the timeline section. Now that they have the history of the castle, they can appreciate this more by viewing the video.
 
-    ![Castle Video](assets/images/castle-video.png)
+    ![Castle Video](media/castle-video.png)
 
 ### Visit Page <a name="visit-page"></a>
 
@@ -192,19 +192,19 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * The image is meant to be consistent with the previous pages in terms of style and layout, but presents the castle in a more relaxed light with the sunset image. The text is designed to indicate that 'as a team' we can plan your visit to the castle.
 
-    ![Visit Image and Text](assets/images/visit-img-text.png)
+    ![Visit Image and Text](media/visit-img-text.png)
 
 * __Tickets__
 
     * Users can easily click on the ticket types in this section. It was designed to be as simple as possible with only 3 ticket types. On clicking the ticket, users are taken to a ticket confirmation landing page. Photos used are meant to be representative of the differing age group. I wanted to keep the tickets all on one row for ease of comparison and accessibility.
 
-    ![Tickets](assets/images/tickets.png)
+    ![Tickets](media/tickets.png)
 
 * __FAQs__
 
     * If users have any common questions at all about visiting the castle, they can see it in this section. I could've included more FAQs, but I wanted to keep it as simple as possible and immediately after the ticket section. The font style and format follows the previous pages.
 
-    ![FAQs](assets/images/faqs.png)
+    ![FAQs](media/faqs.png)
 
 * __Map__
 
@@ -216,13 +216,13 @@ For a detailed breakdown of testing, please see [Testing](https://github.com/Nic
 
     * Once again, the image is meaant to echo that of the previous pages in terms of layout, house style and theme.
 
-    ![Contact Image and Text](assets/images/contact-img.png)
+    ![Contact Image and Text](media/contact-img.png)
 
 * __Contact Form__
 
     * This form enables users to request further information or submit any queries to the castle. Upon completion of the form, users are taken to a thank you for your enquiry landing page. The style echos that of the previous sections. The background image is actually a map of the castle and is just visible behind the contact form. The idea of translucent forms is consistent with that of the home page newsletter form.
 
-    ![Contact](assets/images/contact-form.png)
+    ![Contact](media/contact-form.png)
 
 ## Deployment <a name="deployment"></a>
 

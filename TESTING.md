@@ -28,60 +28,60 @@ I sent a deployed link to the website to many family members and friends who pro
 
     * As a first time visitor, I want to understand the main purpose of the site and learn more about the castle. By accesing the home page, it helps me to understand the reasoning behind the site. If I want to learn more about the castle, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
-    ![Purpose of castle](assets/images/info-user.png)
+    ![Purpose of castle](media/info-user.png)
 
     * As a first time visitor, I want to be able to easily navigate throughout the site to find content. To navigate through the site, the user can click on the links in the navigation menu and also on the Beeston Castle icon to return to the home page.
 
-    ![Navigation](assets/images/navigation1.png)
+    ![Navigation](media/navigation1.png)
 
     * As a first time visitor, I want to be able to easily plan a trip to the castle in advance. Therefore, I should be able to find out information such as how best to visit the castle and ticketing costs. To do this, a user can click on the Visit link and then easily find out this information.
 
-    ![Ticketing](assets/images/visit-path.png)
+    ![Ticketing](media/visit-path.png)
 
     * As a first time visitor, I would like to access social media content about the castle, including content from the castle owners and also third parties. Easily accessible social media links are included in the footer of every page for users.
 
-    ![Alt text](assets/images/social-media.png)
+    ![Alt text](media/social-media.png)
 
     * As a first time visitor, I want to find out background information about the history of the castle in a presentable format. If I want to learn more about the castle history, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
-    ![Alt text](assets/images/timeline-user.png)
+    ![Alt text](media/timeline-user.png)
 
     * As a first time visitor, I want to be able to contact the castle owners to ask any further personal queries about visiting the castle. If I want to contact the castle owners, from the homepage, I click on Contact in the Navigation Menu and then will be able to access a contact form where I can submit my query.
 
-    ![Alt text](assets/images/contact-user.png)
+    ![Alt text](media/contact-user.png)
 
 * __Returning Visitor Goals__ <a name="returning-visitor-goals"></a>
 
     * As a returning visitor, I want to find out the latest information about visiting the castle. To do this, from the homepage, I click on the Visit link in the Navigation Menu and then the information will be presented to me.
 
-    ![Latest info](assets/images/visit-path.png)
+    ![Latest info](media/visit-path.png)
 
     * As a returning visitor, I want to build on my existing knowledge of the history of the castle with updated historical facts.  If I want to learn more about the castle history, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
-    ![Facts](assets/images/timeline-user.png)
+    ![Facts](media/timeline-user.png)
 
      * As a returning visitor, I want to find the best way to get in contact with the castle owners with any new questions I may have. If I want to contact the castle owners, from the homepage, I click on Contact in the Navigation Menu and then will be able to access a contact form where I can submit my query.
 
-    ![Alt text](assets/images/contact-user.png)
+    ![Alt text](media/contact-user.png)
 
     * As a returning visitor, I want to be able to easily access social media links which contains any new updates. Easily accessible social media links are included in the footer of every page for users.
 
-    ![Alt text](assets/images/social-media.png)
+    ![Alt text](media/social-media.png)
 
 * __Frequent Visitor Goals__ <a name="frequent-visitor-goals"></a>
 
     * As a frequent user, I want to check to see if there is any updated important visitor information or if ticket prices have changed. To do this, from the homepage, I click on the Visit link in the Navigation Menu and then the latest visitor information will be presented to me.
 
-    ![Latest info](assets/images/visit-path.png)
+    ![Latest info](media/visit-path.png)
 
 
     * As a frequent user, I want to see if any new historical information about the castle has been published on the website. If I want to find out if any castle history has been added to the site, from the homepage, I click on History and then will be able to access the timeline which gives a historical overview of the site.
 
-    ![Facts](assets/images/timeline-user.png)
+    ![Facts](media/timeline-user.png)
 
     * As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or castle. From the home page, I scroll down to the bottom of the page and enter my email address in the newsletter submission form and this will enable me to subscribe to the latest newsletter.
 
-    ![Newsletter](assets/images/subscribe-user.png)
+    ![Newsletter](media/subscribe-user.png)
 
 ## Browser Testing <a name="browser-testing"></a>
 The website was tested by myself on a range of modern browsers including Chrome, Edge, Brave and Firefox. Load times were quick and no specific issues were encountered during this phase of testing.
@@ -110,7 +110,7 @@ Further details on all bugs can be found in the Bugs section.
 ### W3C CSS Validator Results <a name="w3c-css-results"></a>
 No errors were found using this CSS valildator.
 
-![W3C CSS Validator](assets/images/css.png)
+![W3C CSS Validator](media/css.png)
 
 ## Bugs <a name="known-bugs"></a>
 
@@ -120,7 +120,7 @@ During the build phase of the project, I resolved a number of bugs encountered w
 
 I performed HTML Validation testing on the site and found the following errors with the home page.
 
-![Beeston Castle Home Page HTML Validator testing](assets/images/w3c-html.png)
+![Beeston Castle Home Page HTML Validator testing](media/w3c-html.png)
 
 * Error: Stray end tag i. From line 24, column 27; to line 24, column 30 - removed
 * Error: End tag section seen, but there were open elements. From line 62, column 5; to line 62, column 14 - added closing </div> tag
@@ -157,10 +157,13 @@ The results were as follows:
 
 __Desktop__
 
-![Lighthouse](assets/images/lighthouse.png)
+![Lighthouse](media/lighthouse.png)
 
 __Mobile__
 
-![Lighthouse mobile](assets/images/lighthouse-mobile.png)
+![Lighthouse mobile](media/lighthouse-mobile.png)
 
 Click [here](https://github.com/NickCMoore/beeston-castle/blob/main/TESTING.md) to return to the ReadMe file.
+
+
+[def]: media/lighthouse.png
