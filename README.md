@@ -6,6 +6,8 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 [Link to live website](https://nickcmoore.github.io/beeston-castle/)
 
+![Responsive](assets/images/responsive.png)
+
 ## Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
@@ -60,7 +62,7 @@ The purpose of the project is to demonstrate knowledge of how to produce a user 
 
 **Wireframes**
 
-I used Balsamiq to create wireframes for the various pages in the site.
+I used [Balsamiq](https://balsamiq.com/) to create wireframes for the various pages in the site.
 
 *Home page*
 
